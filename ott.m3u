@@ -139,6 +139,11 @@ https://gachor99.my.id/play.m3u8?id=voa
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_xingkong.png" group-title="OXYGEN HD", XING KONG CHINA
 https://gachor99.my.id/play.m3u8?id=xingkong
 
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="VIDIO" tvg-url="https://bit.ly/JejeVisionEPG",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
+i
+
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIA",ID: Indosiar HD
 http://mykingtv.net:2082/Kingtv88/88990208/5117

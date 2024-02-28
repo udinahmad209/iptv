@@ -63,6 +63,76 @@ http://mykingtv.net:2082/Kingtv88/88990208/6726
 #EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="INDONESIA",Dunia Lain
 http://mykingtv.net:2082/Kingtv88/88990208/8264
 
+#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name=" Disney Channel" tvg-logo="https://i.postimg.cc/N02Xs2s2/disney2.png" group-title="KIDS ", Disney Channel
+http://mykingtv.net:2082/Kingtv88/88990208/5283
+#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name=" Disney Jr" tvg-logo="https://i.postimg.cc/fL49JWy2/disjr2.png" group-title="KIDS ", Disney Jr
+http://mykingtv.net:2082/Kingtv88/88990208/5284
+#EXTINF:-1 tvg-name="Anime" tvg-logo="https://i.imgur.com/8yhTIiR.png" group-title="KIDS ",Anime
+http://mykingtv.net:2082/Kingtv88/88990208/5292
+#EXTINF:-1 tvg-name="Disney XD HD" tvg-logo="https://i.imgur.com/tjFPYyn.png" group-title="KIDS ",Disney XD HD
+http://mykingtv.net:2082/Kingtv88/88990208/8647
+#EXTINF:-1 tvg-id="TV1" tvg-name="Dreamwork" tvg-logo="https://i.postimg.cc/SRhCtQp2/dream2.png" group-title="KIDS ",Dreamwork
+http://mykingtv.net:2082/Kingtv88/88990208/5290
+#EXTINF:-1 tvg-name="Dunia Anak" group-title="KIDS ",Dunia Anak
+http://mykingtv.net:2082/Kingtv88/88990208/13314
+#EXTINF:-1 tvg-name="Hip Hip Horee!" tvg-logo="https://i.imgur.com/n1xHD4y.png" group-title="KIDS ",Hip Hip Horee!
+http://mykingtv.net:2082/Kingtv88/88990208/5289
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://i.postimg.cc/Xv9M6xCZ/hore2.png" group-title="KIDS ",Horee
+http://mykingtv.net:2082/Kingtv88/88990208/5287
+#EXTINF:-1 tvg-name="Moonbug" group-title="KIDS ",Moonbug
+http://mykingtv.net:2082/Kingtv88/88990208/13313
+#EXTINF:-1 tvg-id="warnertv.my" tvg-name="MY: Animax" tvg-logo="https://i.postimg.cc/v8rN8cTK/animax2.png" group-title="KIDS ",MY: Animax
+http://mykingtv.net:2082/Kingtv88/88990208/5277
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="MY: Aniplus FHD" tvg-logo="https://i.postimg.cc/xT9FXnb1/aniplus2.png" group-title="KIDS ",MY: Aniplus FHD
+http://mykingtv.net:2082/Kingtv88/88990208/5278
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY: Astro Ceria [A]" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="KIDS ",MY: Astro Ceria [A]
+http://mykingtv.net:2082/Kingtv88/88990208/5274
+#EXTINF:-1 tvg-id="611" tvg-name="MY: Astro Ceria [B]" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="KIDS ",MY: Astro Ceria [B]
+http://mykingtv.net:2082/Kingtv88/88990208/5275
+#EXTINF:-1 tvg-id="618" tvg-name="MY: Baby Tv" tvg-logo="https://i.postimg.cc/ZqQ1N2zD/babytv2.png" group-title="KIDS ",MY: Baby Tv
+http://mykingtv.net:2082/Kingtv88/88990208/5286
+#EXTINF:-1 tvg-id="619" tvg-name="MY: Boomerang" tvg-logo="https://i.imgur.com/e7BnRNr.png" group-title="KIDS ",MY: Boomerang
+http://mykingtv.net:2082/Kingtv88/88990208/5279
+#EXTINF:-1 tvg-id="warnertv.my" tvg-name="MY: Cartoon Network FHD" tvg-logo="https://i.postimg.cc/fRc46BXV/car2.png" group-title="KIDS ",MY: Cartoon Network FHD
+http://mykingtv.net:2082/Kingtv88/88990208/5280
+#EXTINF:-1 tvg-id="617" tvg-name="MY: Nick Jr" tvg-logo="https://i.postimg.cc/s1CWXgL3/nickjr2.png" group-title="KIDS ",MY: Nick Jr
+http://mykingtv.net:2082/Kingtv88/88990208/5282
+#EXTINF:-1 tvg-id="616" tvg-name="MY: Nickelodeon" tvg-logo="https://i.postimg.cc/d3ydwy4W/nikel2.png" group-title="KIDS ",MY: Nickelodeon
+http://mykingtv.net:2082/Kingtv88/88990208/5281
+
+
+#EXTINF:-1 tvg-id="warnertv.my" tvg-name="MY: Animal Planet" tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="KNOWLEDGE",MY: Animal Planet
+http://mykingtv.net:2082/Kingtv88/88990208/5296
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="MY: Nat Geo Wild" tvg-logo="https://i.ibb.co/84RvFKs/vvgfgh.png" group-title="KNOWLEDGE",MY: Nat Geo Wild
+http://mykingtv.net:2082/Kingtv88/88990208/5299
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="MY: History" tvg-logo="https://i.postimg.cc/wTrntn5y/histo2.png" group-title="KNOWLEDGE",MY: History
+http://mykingtv.net:2082/Kingtv88/88990208/5300
+#EXTINF:-1 tvg-id="715" tvg-name="MY: HGTV HD" tvg-logo="https://i.postimg.cc/NjrSRbbN/hgtv2.png" group-title="KNOWLEDGE",MY: HGTV HD
+http://mykingtv.net:2082/Kingtv88/88990208/5301
+#EXTINF:-1 tvg-name="MY: AFN HD" tvg-logo="https://i.postimg.cc/JhHpfhSP/afn2.png" group-title="KNOWLEDGE",MY: AFN HD
+http://mykingtv.net:2082/Kingtv88/88990208/5302
+#EXTINF:-1 tvg-id="714" tvg-name="MY: Crime + Investigation HD" tvg-logo="https://i.ibb.co/xMTGjYM/CRIME.png" group-title="KNOWLEDGE",MY: Crime + Investigation HD
+http://mykingtv.net:2082/Kingtv88/88990208/5303
+#EXTINF:-1 tvg-id="503" tvg-name="CGTN" tvg-logo="https://i.postimg.cc/C52Yx5Ld/cgtn2.png" group-title="KNOWLEDGE",CGTN
+http://mykingtv.net:2082/Kingtv88/88990208/5305
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/bBTWUOW.png" group-title="KNOWLEDGE",CGTN Documentary
+http://mykingtv.net:2082/Kingtv88/88990208/5306
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="MY: BBC Earth" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="KNOWLEDGE",MY: BBC Earth
+http://mykingtv.net:2082/Kingtv88/88990208/5304
+#EXTINF:-1 tvg-id="707" tvg-name="MY:TLC" tvg-logo="https://i.imgur.com/V8z4UAb.png" group-title="KNOWLEDGE",MY:TLC
+http://mykingtv.net:2082/Kingtv88/88990208/8476
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.476.357.suffix/1505046804671.jpeg" group-title="KNOWLEDGE",Food Network
+http://mykingtv.net:2082/Kingtv88/88990208/8635
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.imgur.com/Wh3Lzbn.png" group-title="KNOWLEDGE",DMAX
+http://mykingtv.net:2082/Kingtv88/88990208/9973
+#EXTINF:-1 tvg-name="Discovery Channel " tvg-logo="https://i.postimg.cc/MHqfmsy1/disco2.png" group-title="KNOWLEDGE",Discovery Channel 
+http://mykingtv.net:2082/Kingtv88/88990208/10125
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://i.postimg.cc/MHqfmsy1/disco2.png" group-title="KNOWLEDGE",Discovery Asia
+http://mykingtv.net:2082/Kingtv88/88990208/12240
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="MY: National Geographic HD" tvg-logo="https://i.ibb.co/9WVJXrw/juuy.png" group-title="KNOWLEDGE",MY: National Geographic HD
+http://mykingtv.net:2082/Kingtv88/88990208/5297
+
+
 
 #EXTINF:-1 tvg-id="Arena2" tvg-name="IN: &Flix" tvg-logo="https://i.postimg.cc/85QygBvp/flix2.png" group-title="MOVIES",IN: &Flix
 http://mykingtv.net:2082/Kingtv88/88990208/5205

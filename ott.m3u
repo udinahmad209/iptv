@@ -134,3 +134,125 @@ http://mykingtv.net:2082/Kingtv88/88990208/5176
 http://mykingtv.net:2082/Kingtv88/88990208/9884
 #EXTINF:-1 tvg-name="MY: Astro Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png" group-title="MOVIES",MY: Astro Premiere
 http://mykingtv.net:2082/Kingtv88/88990208/20770
+
+
+#EXTINF:-1 tvg-name="Arena Bola 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS",Arena Bola 1
+http://mykingtv.net:2082/Kingtv88/88990208/18863
+#EXTINF:-1 tvg-name="Arena Bola 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS",Arena Bola 2
+http://mykingtv.net:2082/Kingtv88/88990208/18864
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Arena Bola SPECIAL LIVE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS",Arena Bola SPECIAL LIVE
+http://mykingtv.net:2082/Kingtv88/88990208/19067
+#EXTINF:-1 tvg-name="Arena Bola SPECIAL LIVE 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS",Arena Bola SPECIAL LIVE 2
+http://mykingtv.net:2082/Kingtv88/88990208/19068
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BEIN SPORT 1 ID 60FPS FHD" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SPORTS",BEIN SPORT 1 ID 60FPS FHD
+http://mykingtv.net:2082/Kingtv88/88990208/8651
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BEIN SPORT 2 ID 60FPS FHD" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="SPORTS",BEIN SPORT 2 ID 60FPS FHD
+http://mykingtv.net:2082/Kingtv88/88990208/8652
+#EXTINF:-1 tvg-name="Bein sports Rugby" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="SPORTS",Bein sports Rugby
+http://mykingtv.net:2082/Kingtv88/88990208/7190
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT BLITZ" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT BLITZ
+http://mykingtv.net:2082/Kingtv88/88990208/12752
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT FOOTBALL" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT FOOTBALL
+http://mykingtv.net:2082/Kingtv88/88990208/12749
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT GOLF" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT GOLF
+http://mykingtv.net:2082/Kingtv88/88990208/12755
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT GRANDSTAND" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT GRANDSTAND
+http://mykingtv.net:2082/Kingtv88/88990208/12747
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT LA LIGA" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT LA LIGA
+http://mykingtv.net:2082/Kingtv88/88990208/12741
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT MOTORSPORT" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT MOTORSPORT
+http://mykingtv.net:2082/Kingtv88/88990208/12756
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT PREMIER LEAGUE" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT PREMIER LEAGUE
+http://mykingtv.net:2082/Kingtv88/88990208/12748
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT RUGBY" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT RUGBY
+http://mykingtv.net:2082/Kingtv88/88990208/12742
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT TENNIS" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT TENNIS
+http://mykingtv.net:2082/Kingtv88/88990208/12753
+#EXTINF:-1 tvg-name="DSTV:  SUPERSPORT VARIETY 4" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:  SUPERSPORT VARIETY 4
+http://mykingtv.net:2082/Kingtv88/88990208/12746
+#EXTINF:-1 tvg-name="DSTV: SUPERSPORT CRICKET" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV: SUPERSPORT CRICKET
+http://mykingtv.net:2082/Kingtv88/88990208/12740
+#EXTINF:-1 tvg-name="DSTV: SUPERSPORT VARIETY 1" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV: SUPERSPORT VARIETY 1
+http://mykingtv.net:2082/Kingtv88/88990208/12743
+#EXTINF:-1 tvg-name="DSTV: SUPERSPORT VARIETY 2" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV: SUPERSPORT VARIETY 2
+http://mykingtv.net:2082/Kingtv88/88990208/12744
+#EXTINF:-1 tvg-name="DSTV: SUPERSPORT VARIETY 3" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV: SUPERSPORT VARIETY 3
+http://mykingtv.net:2082/Kingtv88/88990208/12745
+#EXTINF:-1 tvg-name="DSTV: SUPERSPORTS ACTION" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV: SUPERSPORTS ACTION
+http://mykingtv.net:2082/Kingtv88/88990208/12754
+#EXTINF:-1 tvg-name="DSTV: SUPERSPORTS PSL" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV: SUPERSPORTS PSL
+http://mykingtv.net:2082/Kingtv88/88990208/12750
+#EXTINF:-1 tvg-name="DSTV: WWE" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV: WWE
+http://mykingtv.net:2082/Kingtv88/88990208/12739
+#EXTINF:-1 tvg-name="DSTV:Maximo" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="SPORTS",DSTV:Maximo
+http://mykingtv.net:2082/Kingtv88/88990208/12738
+#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="SPORTS",Eurosport
+http://mykingtv.net:2082/Kingtv88/88990208/19745
+#EXTINF:-1 tvg-id="Rugby" tvg-name="LiverPool Fc" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/lfctv.png" group-title="SPORTS",LiverPool Fc
+http://mykingtv.net:2082/Kingtv88/88990208/7218
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV(B)" tvg-logo="https://i.postimg.cc/cHXGMSHj/mutv.png" group-title="SPORTS",MUTV(B)
+http://mykingtv.net:2082/Kingtv88/88990208/7271
+#EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-name="MY:  WWE [A]" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="SPORTS",MY:  WWE [A]
+http://mykingtv.net:2082/Kingtv88/88990208/7169
+#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",MY: Astro Arena[A]
+http://mykingtv.net:2082/Kingtv88/88990208/7156
+#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[B]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",MY: Astro Arena[B]
+http://mykingtv.net:2082/Kingtv88/88990208/7157
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="MY: Astro Cricket" tvg-logo="https://apkresult.com/Logos/astro-cricket-live-apkresltjpg.png" group-title="SPORTS",MY: Astro Cricket
+http://mykingtv.net:2082/Kingtv88/88990208/7517
+#EXTINF:-1 tvg-id="822" tvg-name="MY: Astro Golf" tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="SPORTS",MY: Astro Golf
+http://mykingtv.net:2082/Kingtv88/88990208/7516
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",MY: Astro Super Sport 1
+http://mykingtv.net:2082/Kingtv88/88990208/8416
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1(B)" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",MY: Astro Super Sport 1(B)
+http://mykingtv.net:2082/Kingtv88/88990208/8548
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",MY: Astro Super Sport 2
+http://mykingtv.net:2082/Kingtv88/88990208/8417
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2(B)" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",MY: Astro Super Sport 2(B)
+http://mykingtv.net:2082/Kingtv88/88990208/8549
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",MY: Astro Super Sport 3
+http://mykingtv.net:2082/Kingtv88/88990208/8418
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3(B)" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",MY: Astro Super Sport 3(B)
+http://mykingtv.net:2082/Kingtv88/88990208/8550
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",MY: Astro Super Sport 4
+http://mykingtv.net:2082/Kingtv88/88990208/8419
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4(B)" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",MY: Astro Super Sport 4(B)
+http://mykingtv.net:2082/Kingtv88/88990208/8551
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="MY: Astro Super Sport 5" tvg-logo="https://i.imgur.com/bzQyCno.png" group-title="SPORTS",MY: Astro Super Sport 5
+http://mykingtv.net:2082/Kingtv88/88990208/8649
+#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="MY: Fight Sports" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",MY: Fight Sports
+http://mykingtv.net:2082/Kingtv88/88990208/7179
+#EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-name="MY: WWE [B]" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="SPORTS",MY: WWE [B]
+http://mykingtv.net:2082/Kingtv88/88990208/7170
+#EXTINF:-1 tvg-id="AstroArena2" tvg-name="MY:Arena 2" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",MY:Arena 2
+http://mykingtv.net:2082/Kingtv88/88990208/8648
+#EXTINF:-1 tvg-name="MY:Bein 2" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="SPORTS",MY:Bein 2
+http://mykingtv.net:2082/Kingtv88/88990208/20773
+#EXTINF:-1 tvg-id="819" tvg-name="MY:Bein 3" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="SPORTS",MY:Bein 3
+http://mykingtv.net:2082/Kingtv88/88990208/8413
+#EXTINF:-1 tvg-id="818" tvg-name="MY:Bein Sports 1" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="SPORTS",MY:Bein Sports 1
+http://mykingtv.net:2082/Kingtv88/88990208/8414
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="MY:RTM Sport FHD" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="SPORTS",MY:RTM Sport FHD
+http://mykingtv.net:2082/Kingtv88/88990208/7155
+#EXTINF:-1 tvg-name="MY:Rubby Pass" tvg-logo="https://ind.igloo1.com/wp-content/uploads/2020/04/Rugbypass-logo-v2.jpg" group-title="SPORTS",MY:Rubby Pass
+http://mykingtv.net:2082/Kingtv88/88990208/12215
+#EXTINF:-1 tvg-name="RedBull Tv" tvg-logo="https://i.imgur.com/W7herio.png" group-title="SPORTS",RedBull Tv
+http://mykingtv.net:2082/Kingtv88/88990208/7186
+#EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dejwe2t-a3f72e36-9bdb-4247-acd1-e78f3d3d2aed.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGVqd2UydC1hM2Y3MmUzNi05YmRiLTQyNDctYWNkMS1lNzhmM2QzZDJhZWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.c3pbV40leGBJAt8_kiK8pWznLRVBNuj5le770_uM6vU" group-title="SPORTS",Sony Six
+http://mykingtv.net:2082/Kingtv88/88990208/12988
+#EXTINF:-1 tvg-name="Sony Ten1" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN1HD_23oct_masthead_logo.png" group-title="SPORTS",Sony Ten1
+http://mykingtv.net:2082/Kingtv88/88990208/12989
+#EXTINF:-1 tvg-name="Sony Ten2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN2HD_23oct_masthead_logo.png" group-title="SPORTS",Sony Ten2
+http://mykingtv.net:2082/Kingtv88/88990208/12990
+#EXTINF:-1 tvg-name="Sony Ten3" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="SPORTS",Sony Ten3
+http://mykingtv.net:2082/Kingtv88/88990208/12991
+#EXTINF:-1 tvg-name="Spotv" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SPORTS",Spotv
+http://mykingtv.net:2082/Kingtv88/88990208/8650
+#EXTINF:-1 tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="SPORTS",Spotv 2
+http://mykingtv.net:2082/Kingtv88/88990208/11832
+#EXTINF:-1 tvg-name="UFC Fight" tvg-logo="https://m.media-amazon.com/images/I/51-yS2agheL._SL1310_.jpg" group-title="SPORTS",UFC Fight
+http://mykingtv.net:2082/Kingtv88/88990208/7187
+#EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSport 1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS",UseeSport 1
+http://mykingtv.net:2082/Kingtv88/88990208/8285
+#EXTINF:-1 tvg-id="UseeSports2.id" tvg-name="UseeSport2" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS",UseeSport2
+http://mykingtv.net:2082/Kingtv88/88990208/8286

@@ -1,1 +1,139 @@
-test
+#EXTM3U
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIA",ID: Indosiar HD
+http://mykingtv.net:2082/Kingtv88/88990208/5117
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="INDONESIA",ID: Citra Drama
+http://mykingtv.net:2082/Kingtv88/88990208/5118
+#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="https://i.ibb.co/8dbD5xw/CITRA-DANGDUT-PPI-IP-TV.png" group-title="INDONESIA",ID: Citra Dangdut
+http://mykingtv.net:2082/Kingtv88/88990208/5120
+#EXTINF:-1 tvg-name="ID: Jitv" tvg-logo="https://images.useetv.com/logo_jitv_big.png" group-title="INDONESIA",ID: Jitv
+http://mykingtv.net:2082/Kingtv88/88990208/5123
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ID: ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ID: ANTV
+http://mykingtv.net:2082/Kingtv88/88990208/5124
+#EXTINF:-1 tvg-name="ID: DAAI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" group-title="INDONESIA",ID: DAAI TV
+http://mykingtv.net:2082/Kingtv88/88990208/5126
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="ID: GTV" tvg-logo="https://i.ibb.co/bJz9v6Q/GTV-PPI-IP-TV.png" group-title="INDONESIA",ID: GTV
+http://mykingtv.net:2082/Kingtv88/88990208/5127
+#EXTINF:-1 tvg-id="IDX.id" tvg-name="ID: IDX Channel" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="INDONESIA",ID: IDX Channel
+http://mykingtv.net:2082/Kingtv88/88990208/5129
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="ID: Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="INDONESIA",ID: Berita Satu
+http://mykingtv.net:2082/Kingtv88/88990208/5131
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="ID: INews TV[A]" tvg-logo="https://www.useetv.com/assets/images/channel/logo_inews_small.png" group-title="INDONESIA",ID: INews TV[A]
+http://mykingtv.net:2082/Kingtv88/88990208/5132
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="ID: INews TV[B]" tvg-logo="https://www.useetv.com/assets/images/channel/logo_inews_small.png" group-title="INDONESIA",ID: INews TV[B]
+http://mykingtv.net:2082/Kingtv88/88990208/5133
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="ID: CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="INDONESIA",ID: CNN Indonesia
+http://mykingtv.net:2082/Kingtv88/88990208/5135
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="ID: Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="INDONESIA",ID: Metro TV
+http://mykingtv.net:2082/Kingtv88/88990208/5136
+#EXTINF:-1 tvg-name="ID: Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",ID: Kompas TV
+http://mykingtv.net:2082/Kingtv88/88990208/5138
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="INDONESIA",ID: MNC TV HD
+http://mykingtv.net:2082/Kingtv88/88990208/5139
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="ID: Net TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA",ID: Net TV
+http://mykingtv.net:2082/Kingtv88/88990208/5140
+#EXTINF:-1 tvg-id="JakTV.MACAN" tvg-name="ID: Jak TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="INDONESIA",ID: Jak TV
+http://mykingtv.net:2082/Kingtv88/88990208/5142
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="ID: RCTI HD" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="INDONESIA",ID: RCTI HD
+http://mykingtv.net:2082/Kingtv88/88990208/5144
+#EXTINF:-1 tvg-name="ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",ID: SCTV
+http://mykingtv.net:2082/Kingtv88/88990208/5147
+#EXTINF:-1 tvg-name="ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",ID: Trans 7
+http://mykingtv.net:2082/Kingtv88/88990208/5149
+#EXTINF:-1 tvg-name="ID: TransTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA",ID: TransTV
+http://mykingtv.net:2082/Kingtv88/88990208/5151
+#EXTINF:-1 tvg-name="ID: TVRI[A]" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI[A]
+http://mykingtv.net:2082/Kingtv88/88990208/5154
+#EXTINF:-1 tvg-name="ID: TVRI[B]" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI[B]
+http://mykingtv.net:2082/Kingtv88/88990208/5155
+#EXTINF:-1 tvg-name="ID: TVRI SPORT" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI SPORT
+http://mykingtv.net:2082/Kingtv88/88990208/5156
+#EXTINF:-1 tvg-name="ID: TVRI JAWA BARAT" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI JAWA BARAT
+http://mykingtv.net:2082/Kingtv88/88990208/5158
+#EXTINF:-1 tvg-name="ID: TVRI NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI NASIONAL
+http://mykingtv.net:2082/Kingtv88/88990208/5159
+#EXTINF:-1 tvg-name="ID: Magna Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png" group-title="INDONESIA",ID: Magna Tv
+http://mykingtv.net:2082/Kingtv88/88990208/5162
+#EXTINF:-1 tvg-name="ID: The Indonesia Channel" tvg-logo="https://www.theindonesiachannel.com/uploads/site/TIC_Logo_2019_Web2X.png" group-title="INDONESIA",ID: The Indonesia Channel
+http://mykingtv.net:2082/Kingtv88/88990208/5163
+#EXTINF:-1 tvg-name="ID: Smithsonian Channel[A]" tvg-logo="https://i.postimg.cc/kG41cfM2/smith22.png" group-title="INDONESIA",ID: Smithsonian Channel[A]
+http://mykingtv.net:2082/Kingtv88/88990208/5164
+#EXTINF:-1 tvg-name="ID:Nagaswara" tvg-logo="http://1.bp.blogspot.com/-WgfaQWq3wJ8/T4LtzJd-t4I/AAAAAAAAAAg/6E_LB3rMXUc/s1600/LOGO+NAGAMAGA.png" group-title="INDONESIA",ID:Nagaswara
+http://mykingtv.net:2082/Kingtv88/88990208/6726
+#EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="INDONESIA",Dunia Lain
+http://mykingtv.net:2082/Kingtv88/88990208/8264
+
+
+#EXTINF:-1 tvg-id="Arena2" tvg-name="IN: &Flix" tvg-logo="https://i.postimg.cc/85QygBvp/flix2.png" group-title="MOVIES",IN: &Flix
+http://mykingtv.net:2082/Kingtv88/88990208/5205
+#EXTINF:-1 tvg-id="HBO" tvg-name="MY: HBO" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="MOVIES",MY: HBO
+http://mykingtv.net:2082/Kingtv88/88990208/7123
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="MY: HBO Hits" tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="MOVIES",MY: HBO Hits
+http://mykingtv.net:2082/Kingtv88/88990208/7124
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="MY: HBO Signature" tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="MOVIES",MY: HBO Signature
+http://mykingtv.net:2082/Kingtv88/88990208/7125
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="MY: HBO Family" tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="MOVIES",MY: HBO Family
+http://mykingtv.net:2082/Kingtv88/88990208/7126
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="MY: CINEMAX HD" tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="MOVIES",MY: CINEMAX HD
+http://mykingtv.net:2082/Kingtv88/88990208/7127
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="MY: HITS" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="MOVIES",MY: HITS
+http://mykingtv.net:2082/Kingtv88/88990208/7128
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="MY: HITS Movies" tvg-logo="https://i.postimg.cc/Y2b57vhx/hitsmov2.png" group-title="MOVIES",MY: HITS Movies
+http://mykingtv.net:2082/Kingtv88/88990208/7129
+#EXTINF:-1 tvg-id="AXN" tvg-name="MY:AXN" tvg-logo="https://i.postimg.cc/kG3z1S4Q/axn2.png" group-title="MOVIES",MY:AXN
+http://mykingtv.net:2082/Kingtv88/88990208/7130
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="MY: Cinema world" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="MOVIES",MY: Cinema world
+http://mykingtv.net:2082/Kingtv88/88990208/7131
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="MY: Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="MOVIES",MY: Thrill
+http://mykingtv.net:2082/Kingtv88/88990208/7132
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="MY: Tvn Movie" tvg-logo="https://i.ibb.co/99hRDQH/TVNM.png" group-title="MOVIES",MY: Tvn Movie
+http://mykingtv.net:2082/Kingtv88/88990208/7133
+#EXTINF:-1 tvg-id="tvN" tvg-name="MY: Tvn HD" tvg-logo="https://i.postimg.cc/fyDZR4v6/tvn2.png" group-title="MOVIES",MY: Tvn HD
+http://mykingtv.net:2082/Kingtv88/88990208/7134
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="MY: Warner TV" tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="MOVIES",MY: Warner TV
+http://mykingtv.net:2082/Kingtv88/88990208/7135
+#EXTINF:-1 tvg-id="CCM" tvg-name="MY: CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="MOVIES",MY: CCM
+http://mykingtv.net:2082/Kingtv88/88990208/7136
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="MY:Celestial Movies" tvg-logo="https://i.postimg.cc/wvfYwMNF/cele2.png" group-title="MOVIES",MY:Celestial Movies
+http://mykingtv.net:2082/Kingtv88/88990208/7137
+#EXTINF:-1 tvg-id="MoonbugKids" tvg-name="MY: KIX" tvg-logo="https://i.ibb.co/JnkYkJZ/KIX.png" group-title="MOVIES",MY: KIX
+http://mykingtv.net:2082/Kingtv88/88990208/7138
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="ID: Bioskop Indonesia" tvg-logo="https://i.postimg.cc/QC7sVsBb/bios2.png" group-title="MOVIES",ID: Bioskop Indonesia
+http://mykingtv.net:2082/Kingtv88/88990208/7139
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="ID: FLIK" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="MOVIES",ID: FLIK
+http://mykingtv.net:2082/Kingtv88/88990208/7140
+#EXTINF:-1 tvg-id="IMC" tvg-name="ID: IMC" tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="MOVIES",ID: IMC
+http://mykingtv.net:2082/Kingtv88/88990208/7141
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="Wau" tvg-logo="https://i.imgur.com/3T0R8WI.png" group-title="MOVIES",Wau
+http://mykingtv.net:2082/Kingtv88/88990208/7143
+#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="Blue Ant Extreme" tvg-logo="https://i.postimg.cc/m2M2g3Cs/blue-ext22.png" group-title="MOVIES",Blue Ant Extreme
+http://mykingtv.net:2082/Kingtv88/88990208/7148
+#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="Blue Ant Entertaiment" tvg-logo="https://i.postimg.cc/qvTBhtxC/blue-abt22.png" group-title="MOVIES",Blue Ant Entertaiment
+http://mykingtv.net:2082/Kingtv88/88990208/7149
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy HD" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="MOVIES",Galaxy HD
+http://mykingtv.net:2082/Kingtv88/88990208/7152
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium HD" tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="MOVIES",Galaxy Premium HD
+http://mykingtv.net:2082/Kingtv88/88990208/7153
+#EXTINF:-1 tvg-id="ShowcaseMovies" tvg-name="Showcase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="MOVIES",Showcase Movies
+http://mykingtv.net:2082/Kingtv88/88990208/8409
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-name="MyCinema HD" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="MOVIES",MyCinema HD
+http://mykingtv.net:2082/Kingtv88/88990208/8658
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-name="MyCinema Asia HD" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="MOVIES",MyCinema Asia HD
+http://mykingtv.net:2082/Kingtv88/88990208/8660
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-name="MyFamily Channel HD" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="MOVIES",MyFamily Channel HD
+http://mykingtv.net:2082/Kingtv88/88990208/8662
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="http://www.iuemag.com/u21/li/images/inspiration-unlimited-iu-e-magazine-syfy-channel-sci-fi-fantasy-tv-channel-branding-nbc-universal-tv-fantasy-horror-ott-channel-online.jpg" group-title="MOVIES",Syfy
+http://mykingtv.net:2082/Kingtv88/88990208/9673
+#EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://i.imgur.com/2CZPr0B.png" group-title="MOVIES",Hollywood Movies
+http://mykingtv.net:2082/Kingtv88/88990208/9675
+#EXTINF:-1 tvg-name="MY:  BOO Sub Malay" tvg-logo="https://i.imgur.com/XX7nfoF.png" group-title="MOVIES",MY:  BOO Sub Malay
+http://mykingtv.net:2082/Kingtv88/88990208/12224
+#EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-name="MY: Astro Vinmeen -REpairing" tvg-logo="https://i.ibb.co/V9YCG5H/vinmeen.png" group-title="MOVIES",MY: Astro Vinmeen -REpairing
+http://mykingtv.net:2082/Kingtv88/88990208/5176
+#EXTINF:-1 tvg-id="BoxOfficeThangathirai" tvg-name="Astro Vellithirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Astro_Vellithirai_2022.png" group-title="MOVIES",Astro Vellithirai
+http://mykingtv.net:2082/Kingtv88/88990208/9884
+#EXTINF:-1 tvg-name="MY: Astro Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png" group-title="MOVIES",MY: Astro Premiere
+http://mykingtv.net:2082/Kingtv88/88990208/20770

@@ -5,67 +5,6 @@
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/epg"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="CHANNEL | EMTEK GRUP", INDOSIAR 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | EMTEK GRUP", MOJI 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="CHANNEL | EMTEK GRUP", SCTV 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="CHANNEL | EMTEK GRUP", MENTARI TV 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="CHANNEL | EMTEK GRUP", INDOSIAR 2
-http://iptvtree.net:8080/c4596f70/c3848d92/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | EMTEK GRUP", MOJI 2
-http://iptvtree.net:8080/c4596f70/c3848d92/298550
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="CHANNEL | EMTEK GRUP", SCTV 2
-http://iptvtree.net:8080/c4596f70/c3848d92/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="CHANNEL | EMTEK GRUP", MENTARI TV 2
-http://iptvtree.net:8080/c4596f70/c3848d92/298546
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 3
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692421&extension=ts&play_token=DNtPXPsBWp
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 4
-http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=11485_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 5
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=295373&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 2
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=83453&extension=ts&play_token=U71gOhaI4v
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 3
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=83453&extension=ts&play_token=TP5qtHk8iF
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 4
-http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
-
-
-
-
-
-
-
-
-
-///bri///
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
 
 
@@ -5329,4 +5268,65 @@ http://sansat.net:88/N0EX4YZZGQHHCKO/RDUUCPQ7EXNN5GC/548163
 #EXTINF:-1 tvg-name="SSC EXTRA 3 SD" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_3_hd.png" group-title="SSC SPORTS",SSC EXTRA 3 SD
 http://sansat.net:88/N0EX4YZZGQHHCKO/RDUUCPQ7EXNN5GC/548164
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="CHANNEL | EMTEK GRUP", INDOSIAR 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | EMTEK GRUP", MOJI 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="CHANNEL | EMTEK GRUP", SCTV 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="CHANNEL | EMTEK GRUP", MENTARI TV 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="CHANNEL | EMTEK GRUP", INDOSIAR 2
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | EMTEK GRUP", MOJI 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="CHANNEL | EMTEK GRUP", SCTV 2
+http://iptvtree.net:8080/c4596f70/c3848d92/162141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="CHANNEL | EMTEK GRUP", MENTARI TV 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298546
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692421&extension=ts&play_token=DNtPXPsBWp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 4
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=11485_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=295373&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=83453&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=83453&extension=ts&play_token=TP5qtHk8iF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 4
+http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
+
+
+
+
+
+
+
+
+
+///bri///
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 

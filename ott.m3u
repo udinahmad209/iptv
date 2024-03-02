@@ -1273,7 +1273,7 @@ https://webudit.hlsjs.ru/lb/premium316/index.m3u8|Origin=https://weblivehdplay.r
 #EXTVLCOPT:http-referrer=https://key.webhd.ru/wmsxx.php
 https://webudit.hlsjs.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru
 
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EWTJPREk1WW1JdFlqWTBZaTAwTnpZNExUazFNR010TUdJeE1HWmlZalUyTnpOaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDYxNzYwMiwiaWF0IjoxNzAwMDEzNjAyfQ.cDVjxm3xZCoAp9vK2URr5lJi_HLnF9niML5xI8Hw4-A","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7f5b73b"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5267,6 +5267,268 @@ http://sansat.net:88/N0EX4YZZGQHHCKO/RDUUCPQ7EXNN5GC/548162
 http://sansat.net:88/N0EX4YZZGQHHCKO/RDUUCPQ7EXNN5GC/548163
 #EXTINF:-1 tvg-name="SSC EXTRA 3 SD" tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_3_hd.png" group-title="SSC SPORTS",SSC EXTRA 3 SD
 http://sansat.net:88/N0EX4YZZGQHHCKO/RDUUCPQ7EXNN5GC/548164
+
+
+
+
+#EXTINF:-1 tvg-name="MY001:TV 1" group-title="ASTRO MALAYSIA (wanicelife)",MY001:TV 1
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1734
+#EXTINF:-1 tvg-name="MY002:TV 2" group-title="ASTRO MALAYSIA (wanicelife)",MY002:TV 2
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1733
+#EXTINF:-1 tvg-name="MY003:TV 3" group-title="ASTRO MALAYSIA (wanicelife)",MY003:TV 3
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1732
+#EXTINF:-1 tvg-name="MY004:NTV 7" group-title="ASTRO MALAYSIA (wanicelife)",MY004:NTV 7
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1731
+#EXTINF:-1 tvg-name="MY005:TV 8" group-title="ASTRO MALAYSIA (wanicelife)",MY005:TV 8
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1730
+#EXTINF:-1 tvg-name="MY006:TV 9" group-title="ASTRO MALAYSIA (wanicelife)",MY006:TV 9
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1729
+#EXTINF:-1 tvg-name="MY007:QUAN JIA" group-title="ASTRO MALAYSIA (wanicelife)",MY007:QUAN JIA
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1728
+#EXTINF:-1 tvg-name="MY008:SHUANG XING" group-title="ASTRO MALAYSIA (wanicelife)",MY008:SHUANG XING
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1727
+#EXTINF:-1 tvg-name="MY009:Wah Lai Toi" group-title="ASTRO MALAYSIA (wanicelife)",MY009:Wah Lai Toi
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1726
+#EXTINF:-1 tvg-name="MY010:HUA HEE DAI" group-title="ASTRO MALAYSIA (wanicelife)",MY010:HUA HEE DAI
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1725
+#EXTINF:-1 tvg-name="MY011:AOD" group-title="ASTRO MALAYSIA (wanicelife)",MY011:AOD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1724
+#EXTINF:-1 tvg-name="MY012:AEC" group-title="ASTRO MALAYSIA (wanicelife)",MY012:AEC
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1723
+#EXTINF:-1 tvg-name="MY013:Super Sport 1" group-title="ASTRO MALAYSIA (wanicelife)",MY013:Super Sport 1
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" group-title="ASTRO MALAYSIA (wanicelife)",MY014:Super Sport 2
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" group-title="ASTRO MALAYSIA (wanicelife)",MY015:Super Sport 3
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" group-title="ASTRO MALAYSIA (wanicelife)",MY016:Super Sport 4
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1719
+#EXTINF:-1 tvg-name="MY022:Super Sport 5" group-title="ASTRO MALAYSIA (wanicelife)",MY022:Super Sport 5
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1713
+#EXTINF:-1 tvg-name="MY043:ASTRO ASSP4 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY043:ASTRO ASSP4 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/59217
+#EXTINF:-1 tvg-name="MY042:ASTRO ASSP3 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY042:ASTRO ASSP3 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/59218
+#EXTINF:-1 tvg-name="MY040:ASTRO ASSP HD" group-title="ASTRO MALAYSIA (wanicelife)",MY040:ASTRO ASSP HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/59220
+#EXTINF:-1 tvg-name="MY041:ASTRO ASSP2 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY041:ASTRO ASSP2 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/59219
+#EXTINF:-1 tvg-name="MY107:Astro SuperSport Events 6" group-title="ASTRO MALAYSIA (wanicelife)",MY107:Astro SuperSport Events 6
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71079
+#EXTINF:-1 tvg-name="MY133:Astro Premier 2" group-title="ASTRO MALAYSIA (wanicelife)",MY133:Astro Premier 2
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71105
+#EXTINF:-1 tvg-name="MY136:ASTRO Rugby Pass" group-title="ASTRO MALAYSIA (wanicelife)",MY136:ASTRO Rugby Pass
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71108
+#EXTINF:-1 tvg-name="MY137:ASTRO Cricket" group-title="ASTRO MALAYSIA (wanicelife)",MY137:ASTRO Cricket
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71109
+#EXTINF:-1 tvg-name="MY177:Astro SuperSport Events 3" group-title="ASTRO MALAYSIA (wanicelife)",MY177:Astro SuperSport Events 3
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71146
+#EXTINF:-1 tvg-name="MY108:ASTRO Ceria" group-title="ASTRO MALAYSIA (wanicelife)",MY108:ASTRO Ceria
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71080
+#EXTINF:-1 tvg-name="MY057:ASTRO Colors Tamil" group-title="ASTRO MALAYSIA (wanicelife)",MY057:ASTRO Colors Tamil
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71035
+#EXTINF:-1 tvg-name="MY056:ASTRO Star Vijay" group-title="ASTRO MALAYSIA (wanicelife)",MY056:ASTRO Star Vijay
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71034
+#EXTINF:-1 tvg-name="MY054:ASTRO Zee Tamil" group-title="ASTRO MALAYSIA (wanicelife)",MY054:ASTRO Zee Tamil
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71032
+#EXTINF:-1 tvg-name="MY053:ASTRO Adithya" group-title="ASTRO MALAYSIA (wanicelife)",MY053:ASTRO Adithya
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71031
+#EXTINF:-1 tvg-name="MY017:CELESTIAL" group-title="ASTRO MALAYSIA (wanicelife)",MY017:CELESTIAL
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1718
+#EXTINF:-1 tvg-name="MY018:BERNAMA" group-title="ASTRO MALAYSIA (wanicelife)",MY018:BERNAMA
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1717
+#EXTINF:-1 tvg-name="MY020:Star Chinese Channel" group-title="ASTRO MALAYSIA (wanicelife)",MY020:Star Chinese Channel
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1715
+#EXTINF:-1 tvg-name="MY021:XIAO TAI YANG" group-title="ASTRO MALAYSIA (wanicelife)",MY021:XIAO TAI YANG
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1714
+#EXTINF:-1 tvg-name="MY023:TVB CLASSIC" group-title="ASTRO MALAYSIA (wanicelife)",MY023:TVB CLASSIC
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1712
+#EXTINF:-1 tvg-name="MY029:WARNA" group-title="ASTRO MALAYSIA (wanicelife)",MY029:WARNA
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1706
+#EXTINF:-1 tvg-name="MY030:RIA" group-title="ASTRO MALAYSIA (wanicelife)",MY030:RIA
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1705
+#EXTINF:-1 tvg-name="MY031:AWANI" group-title="ASTRO MALAYSIA (wanicelife)",MY031:AWANI
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1704
+#EXTINF:-1 tvg-name="MY034:OASIS" group-title="ASTRO MALAYSIA (wanicelife)",MY034:OASIS
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1701
+#EXTINF:-1 tvg-name="MY082:Singapore Channel 8" group-title="ASTRO MALAYSIA (wanicelife)",MY082:Singapore Channel 8
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71054
+#EXTINF:-1 tvg-name="MY035:Singapore Suria" group-title="ASTRO MALAYSIA (wanicelife)",MY035:Singapore Suria
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1700
+#EXTINF:-1 tvg-name="MY036:Singapore Vasantham" group-title="ASTRO MALAYSIA (wanicelife)",MY036:Singapore Vasantham
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1699
+#EXTINF:-1 tvg-name="MY151:sukan" group-title="ASTRO MALAYSIA (wanicelife)",MY151:sukan
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71123
+#EXTINF:-1 tvg-name="MY037:WWE" group-title="ASTRO MALAYSIA (wanicelife)",MY037:WWE
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1698
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" group-title="ASTRO MALAYSIA (wanicelife)",MY038:BOO
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1697
+#EXTINF:-1 tvg-name="MY042:Ria" group-title="ASTRO MALAYSIA (wanicelife)",MY042:Ria
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71020
+#EXTINF:-1 tvg-name="MY043:Awesome TV" group-title="ASTRO MALAYSIA (wanicelife)",MY043:Awesome TV
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71021
+#EXTINF:-1 tvg-name="MY046:TV ALHIJRAH" group-title="ASTRO MALAYSIA (wanicelife)",MY046:TV ALHIJRAH
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71024
+#EXTINF:-1 tvg-name="MY047:aura" group-title="ASTRO MALAYSIA (wanicelife)",MY047:aura
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71025
+#EXTINF:-1 tvg-name="MY048:Astro Premier 1" group-title="ASTRO MALAYSIA (wanicelife)",MY048:Astro Premier 1
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71026
+#EXTINF:-1 tvg-name="MY049:KBSW" group-title="ASTRO MALAYSIA (wanicelife)",MY049:KBSW
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71027
+#EXTINF:-1 tvg-name="MY050:GO SHOP" group-title="ASTRO MALAYSIA (wanicelife)",MY050:GO SHOP
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71028
+#EXTINF:-1 tvg-name="MY051:Sun Music" group-title="ASTRO MALAYSIA (wanicelife)",MY051:Sun Music
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71029
+#EXTINF:-1 tvg-name="MY052:TUTOR TV SK" group-title="ASTRO MALAYSIA (wanicelife)",MY052:TUTOR TV SK
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71030
+#EXTINF:-1 tvg-name="MY055:Star Vijay Super" group-title="ASTRO MALAYSIA (wanicelife)",MY055:Star Vijay Super
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71033
+#EXTINF:-1 tvg-name="MY058:SUN TV HD" group-title="ASTRO MALAYSIA (wanicelife)",MY058:SUN TV HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71036
+#EXTINF:-1 tvg-name="MY059:HBO Hits" group-title="ASTRO MALAYSIA (wanicelife)",MY059:HBO Hits
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71037
+#EXTINF:-1 tvg-name="MY060:iQIYI HD" group-title="ASTRO MALAYSIA (wanicelife)",MY060:iQIYI HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71038
+#EXTINF:-1 tvg-name="MY061:GO SHOP 2" group-title="ASTRO MALAYSIA (wanicelife)",MY061:GO SHOP 2
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71039
+#EXTINF:-1 tvg-name="MY067:TVB JADE" group-title="ASTRO MALAYSIA (wanicelife)",MY067:TVB JADE
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71040
+#EXTINF:-1 tvg-name="MY069:CTI Asia" group-title="ASTRO MALAYSIA (wanicelife)",MY069:CTI Asia
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71042
+#EXTINF:-1 tvg-name="MY070:TVB E-NEWS" group-title="ASTRO MALAYSIA (wanicelife)",MY070:TVB E-NEWS
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71043
+#EXTINF:-1 tvg-name="MY071:TVB XING HE HD" group-title="ASTRO MALAYSIA (wanicelife)",MY071:TVB XING HE HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71044
+#EXTINF:-1 tvg-name="MY072:TVBS ASIA HD" group-title="ASTRO MALAYSIA (wanicelife)",MY072:TVBS ASIA HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71045
+#EXTINF:-1 tvg-name="MY073:CCM" group-title="ASTRO MALAYSIA (wanicelife)",MY073:CCM
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71046
+#EXTINF:-1 tvg-name="MY075:CCTV4 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY075:CCTV4 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71047
+#EXTINF:-1 tvg-name="MY076:AOD 352 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY076:AOD 352 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71048
+#EXTINF:-1 tvg-name="MY077:AOD 353 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY077:AOD 353 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71049
+#EXTINF:-1 tvg-name="MY078:AOD 354 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY078:AOD 354 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71050
+#EXTINF:-1 tvg-name="MY079:AOD 355 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY079:AOD 355 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71051
+#EXTINF:-1 tvg-name="MY080:KBS World HD" group-title="ASTRO MALAYSIA (wanicelife)",MY080:KBS World HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71052
+#EXTINF:-1 tvg-name="MY081:ONE HD" group-title="ASTRO MALAYSIA (wanicelife)",MY081:ONE HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71053
+#EXTINF:-1 tvg-name="MY083:TVN HD" group-title="ASTRO MALAYSIA (wanicelife)",MY083:TVN HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71055
+#EXTINF:-1 tvg-name="MY084:Hits Movies HD" group-title="ASTRO MALAYSIA (wanicelife)",MY084:Hits Movies HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71056
+#EXTINF:-1 tvg-name="MY086:Cinemax HD" group-title="ASTRO MALAYSIA (wanicelife)",MY086:Cinemax HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71058
+#EXTINF:-1 tvg-name="MY087:TVN Movies" group-title="ASTRO MALAYSIA (wanicelife)",MY087:TVN Movies
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71059
+#EXTINF:-1 tvg-name="MY088:OKEY TV" group-title="ASTRO MALAYSIA (wanicelife)",MY088:OKEY TV
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71060
+#EXTINF:-1 tvg-name="MY089:Moonbug Kids" group-title="ASTRO MALAYSIA (wanicelife)",MY089:Moonbug Kids
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71061
+#EXTINF:-1 tvg-name="MY091:AL JAZEERA HD" group-title="ASTRO MALAYSIA (wanicelife)",MY091:AL JAZEERA HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71063
+#EXTINF:-1 tvg-name="MY092:SKY NEWS HD" group-title="ASTRO MALAYSIA (wanicelife)",MY092:SKY NEWS HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71064
+#EXTINF:-1 tvg-name="MY093:CNA HD" group-title="ASTRO MALAYSIA (wanicelife)",MY093:CNA HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71065
+#EXTINF:-1 tvg-name="MY094:CNBC" group-title="ASTRO MALAYSIA (wanicelife)",MY094:CNBC
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71066
+#EXTINF:-1 tvg-name="MY095:Bloomberg TV" group-title="ASTRO MALAYSIA (wanicelife)",MY095:Bloomberg TV
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71067
+#EXTINF:-1 tvg-name="MY096:ABC AUSTRALIA" group-title="ASTRO MALAYSIA (wanicelife)",MY096:ABC AUSTRALIA
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71068
+#EXTINF:-1 tvg-name="MY097:8TV" group-title="ASTRO MALAYSIA (wanicelife)",MY097:8TV
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71069
+#EXTINF:-1 tvg-name="MY099:Discovery HD" group-title="ASTRO MALAYSIA (wanicelife)",MY099:Discovery HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71071
+#EXTINF:-1 tvg-name="MY100:DISCOVERY ASIA" group-title="ASTRO MALAYSIA (wanicelife)",MY100:DISCOVERY ASIA
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71072
+#EXTINF:-1 tvg-name="MY101:Discovery Science" group-title="ASTRO MALAYSIA (wanicelife)",MY101:Discovery Science
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71073
+#EXTINF:-1 tvg-name="MY102:HISTORY HD" group-title="ASTRO MALAYSIA (wanicelife)",MY102:HISTORY HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71074
+#EXTINF:-1 tvg-name="MY103:ANIMAL PLANET HD" group-title="ASTRO MALAYSIA (wanicelife)",MY103:ANIMAL PLANET HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71075
+#EXTINF:-1 tvg-name="MY104:TUTOR TV UPSR" group-title="ASTRO MALAYSIA (wanicelife)",MY104:TUTOR TV UPSR
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71076
+#EXTINF:-1 tvg-name="MY106:TUTOR TV SMK" group-title="ASTRO MALAYSIA (wanicelife)",MY106:TUTOR TV SMK
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71078
+#EXTINF:-1 tvg-name="MY112:Cartoon Network" group-title="ASTRO MALAYSIA (wanicelife)",MY112:Cartoon Network
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71084
+#EXTINF:-1 tvg-name="MY113:NICKELODEON HD" group-title="ASTRO MALAYSIA (wanicelife)",MY113:NICKELODEON HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71085
+#EXTINF:-1 tvg-name="MY114:NICK JR" group-title="ASTRO MALAYSIA (wanicelife)",MY114:NICK JR
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71086
+#EXTINF:-1 tvg-name="MY115:AXN HD" group-title="ASTRO MALAYSIA (wanicelife)",MY115:AXN HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71087
+#EXTINF:-1 tvg-name="MY116:Phoenix" group-title="ASTRO MALAYSIA (wanicelife)",MY116:Phoenix
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71088
+#EXTINF:-1 tvg-name="MY117:HITS HD" group-title="ASTRO MALAYSIA (wanicelife)",MY117:HITS HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71089
+#EXTINF:-1 tvg-name="MY118:TLC HD" group-title="ASTRO MALAYSIA (wanicelife)",MY118:TLC HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71090
+#EXTINF:-1 tvg-name="MY119:FOOD NTWK HD" group-title="ASTRO MALAYSIA (wanicelife)",MY119:FOOD NTWK HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71091
+#EXTINF:-1 tvg-name="MY120:AFN HD" group-title="ASTRO MALAYSIA (wanicelife)",MY120:AFN HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71092
+#EXTINF:-1 tvg-name="MY122:WARNER TV" group-title="ASTRO MALAYSIA (wanicelife)",MY122:WARNER TV
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71094
+#EXTINF:-1 tvg-name="MY123:Crime Investigation" group-title="ASTRO MALAYSIA (wanicelife)",MY123:Crime Investigation
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71095
+#EXTINF:-1 tvg-name="MY124:HGTV HD" group-title="ASTRO MALAYSIA (wanicelife)",MY124:HGTV HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71096
+#EXTINF:-1 tvg-name="MY125:DMAX HD" group-title="ASTRO MALAYSIA (wanicelife)",MY125:DMAX HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71097
+#EXTINF:-1 tvg-name="MY126:COMEDY CENTRAL" group-title="ASTRO MALAYSIA (wanicelife)",MY126:COMEDY CENTRAL
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71098
+#EXTINF:-1 tvg-name="MY127:MTV" group-title="ASTRO MALAYSIA (wanicelife)",MY127:MTV
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71099
+#EXTINF:-1 tvg-name="MY128:ANIMAX" group-title="ASTRO MALAYSIA (wanicelife)",MY128:ANIMAX
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71100
+#EXTINF:-1 tvg-name="MY129:bEIN Sports 3" group-title="ASTRO MALAYSIA (wanicelife)",MY129:bEIN Sports 3
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71101
+#EXTINF:-1 tvg-name="MY132:beIN SPORTS" group-title="ASTRO MALAYSIA (wanicelife)",MY132:beIN SPORTS
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71104
+#EXTINF:-1 tvg-name="MY134:EUROSPORT HD" group-title="ASTRO MALAYSIA (wanicelife)",MY134:EUROSPORT HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71106
+#EXTINF:-1 tvg-name="MY135:GOLF CHANNEL HD" group-title="ASTRO MALAYSIA (wanicelife)",MY135:GOLF CHANNEL HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71107
+#EXTINF:-1 tvg-name="MY139:KPLUS HD" group-title="ASTRO MALAYSIA (wanicelife)",MY139:KPLUS HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71111
+#EXTINF:-1 tvg-name="MY140:DW HD" group-title="ASTRO MALAYSIA (wanicelife)",MY140:DW HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71112
+#EXTINF:-1 tvg-name="MY141:FRANCE24 HD" group-title="ASTRO MALAYSIA (wanicelife)",MY141:FRANCE24 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71113
+#EXTINF:-1 tvg-name="MY146:beIN Sports 2" group-title="ASTRO MALAYSIA (wanicelife)",MY146:beIN Sports 2
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71118
+#EXTINF:-1 tvg-name="MY147:BBC Earth HD" group-title="ASTRO MALAYSIA (wanicelife)",MY147:BBC Earth HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71119
+#EXTINF:-1 tvg-name="MY148:BBC Lifestyle" group-title="ASTRO MALAYSIA (wanicelife)",MY148:BBC Lifestyle
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71120
+#EXTINF:-1 tvg-name="MY150:BBC World News" group-title="ASTRO MALAYSIA (wanicelife)",MY150:BBC World News
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71122
+#EXTINF:-1 tvg-name="MY164:Paramount Channel" group-title="ASTRO MALAYSIA (wanicelife)",MY164:Paramount Channel
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71135
+#EXTINF:-1 tvg-name="MY166:Global Trekker" group-title="ASTRO MALAYSIA (wanicelife)",MY166:Global Trekker
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71137
+#EXTINF:-1 tvg-name="MY168:SCM" group-title="ASTRO MALAYSIA (wanicelife)",MY168:SCM
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71138
+#EXTINF:-1 tvg-name="MY169:SETi Chinese" group-title="ASTRO MALAYSIA (wanicelife)",MY169:SETi Chinese
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71139
+#EXTINF:-1 tvg-name="MY178:SPOTV" group-title="ASTRO MALAYSIA (wanicelife)",MY178:SPOTV
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71147
+#EXTINF:-1 tvg-name="MY179:TVS" group-title="ASTRO MALAYSIA (wanicelife)",MY179:TVS
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71148
+#EXTINF:-1 tvg-name="MY180:Awesome TV" group-title="ASTRO MALAYSIA (wanicelife)",MY180:Awesome TV
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/71149
+#EXTINF:-1 tvg-name="MY019:Kix HD" group-title="ASTRO MALAYSIA (wanicelife)",MY019:Kix HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/1716
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="CHANNEL | EMTEK GRUP", INDOSIAR 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138

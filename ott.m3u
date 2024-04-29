@@ -1960,11 +1960,285 @@ https://cdnjkt4.transvision.co.id:1003/live/master/1/4028c6857fe540a1018060afdef
 https://cdnjkt4.transvision.co.id:1003/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 
+########    OXYGEN TV
 
 
 
-
-
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" ch-number="92",OXYGEN.ID
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=oxygentv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/93a0add4ed871fcabfd7.jpg" ch-number="92",IDX CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=idx
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" ch-number="92",NET TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=nettv-hd
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" ch-number="92",METRO TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=metrotv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" ch-number="92",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=kompastv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" ch-number="92",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=tvri
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" ch-number="92",SCTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=sctv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png" ch-number="92",TRANS 7
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=trans7
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png" ch-number="92",TRANS TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=transtv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" ch-number="92",INDOSIAR
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=indosiar
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png" ch-number="92",ANTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=antv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" ch-number="92",TV ONE
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=tvone
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" ch-number="92",RTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=rtv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jaktv.png" ch-number="92",JAK TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=jaktv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" ch-number="92",MOJI TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=moji
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_daaitv.png" ch-number="92",DAAI INDONESIA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=daaitv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b00977f498ea7ad4aa26.jpeg" ch-number="92",BTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=btv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" ch-number="92",NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=nusantaratv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" ch-number="92",VIVA TELEVISI
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=vtv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jitv" ch-number="92",JITV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=jitv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" ch-number="92",KTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=ktv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/64a420f0f62df497206a.png" ch-number="92",JPM
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=jpm
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nhk.png" ch-number="92",NHK WORLD (HD)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=nhkworld
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixhk.png" ch-number="92",PHOENIX HK
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=phoenixhongkong
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dw.png" ch-number="92",DW TV ASIA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=dwenglis
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_france24.png" ch-number="92",FRANCE 24
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=france24
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_arirang.png" ch-number="92",ARIRANG WORLD
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=arirangworld
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_CCTV.png" ch-number="92",CCTV 4
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=cctv4asia
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_voa.png" ch-number="92",VOA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=voa
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cetv1.png" ch-number="92",CETV 1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=cetv1
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtndoc.png" ch-number="92",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=cgtndocumentary
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tv5monde.png" ch-number="92",TV5 MONDE
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=tv5monde
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nippontv.png" ch-number="92",NIPPON TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=nihontv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c10edc898148799639f.png" ch-number="92",KBS KOREA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=kbs-korea
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_salamtv.png" ch-number="92",SALAM TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=salamtv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rodja.png" ch-number="92",RODJA TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=rodjatv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_uchannel.png" ch-number="92",U CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=uchannel
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tawaftv.png" ch-number="92",TAWAF TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=tawaftv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_qurantv.png" ch-number="92", QURAN TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=qurantv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" ch-number="92",INEWS TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=inews
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_aljazeera.png" ch-number="92",AL JAZEERA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=aljazeera
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trt.png" ch-number="92",TRT WORLD
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=trtworld
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixchinese.png" ch-number="92",PHOENIX CHINESE
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=phoenixchinese
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cna.png" ch-number="92",CHANNEL NEWS ASIA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=channelnewsasia
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_euronews.png" ch-number="92",EURONEWS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=euronewsasia
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtn.png" ch-number="92",CGTN
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=cgtn
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c8b3b8177e3fb267a74.png" ch-number="92",TVBS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=tvbnews
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_bloomberg.png" ch-number="92",BLOOMBERG
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=bloomberg
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cnbcint.png" ch-number="92",CNBC
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=cnbc
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4umovies.png" ch-number="92",B4U MOVIES
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=b4umovieindia
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_xingkong.png" ch-number="92",XING KONG CHINA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=xingkong
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" ch-number="92",LOTUS MACAU
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=lotusmacau
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/994ca4439869fb20cfc6.png" ch-number="92",LTN FAMILY
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=ltn-family
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/ca22c587c19948f1567e.png" ch-number="92",FILMAX
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=filmax
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_fashiontv.png" ch-number="92",FASHION TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=fashiontv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_channelv.png" ch-number="92",CHANNEL V CHINA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=vchina
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4u.png" ch-number="92",B4U MUSIC
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+https://qreatifku.my.id/oxtb/hls.m3u8?id=b4umusicindia
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/79e2dab75c3bfcea933c.png" ch-number="92",INSIGHT TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=insight
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_toonmax.png" ch-number="92",TOONMAX
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=toonmax
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_spacetoon.png" ch-number="92",SPACETOON
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=spacetoon
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" ch-number="92",EBS KIDS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=ebskids
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" ch-number="92",MENTARI TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=mentaritv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" ch-number="92",KIDS ZONE PLUS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=kidszoneplus
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b12d9de0667a6dbcff5f.png" ch-number="92",POP TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=pop
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/f48a09f215f6bc907aaa.png" ch-number="92",PLANET FUN
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=planetfun
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvrisport.png" ch-number="92",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=tvrisport
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dubaisport3.png" ch-number="92",DUBAI SPORTS 3
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=dubaisport3
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_redbull.png" ch-number="92",RED BULL TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=redbulltv
+#EXTINF:-1 tvg-id="INFO" group-title="OxygenTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/c01f7cb2fad4cfbcf0a7.png" ch-number="92",EDGE SPORT
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+#EXTVLCOPT:http-referrer=https://qreatifku.my.id
+https://qreatifku.my.id/oxtb/hls.m3u8?id=edgesport
 
 
 

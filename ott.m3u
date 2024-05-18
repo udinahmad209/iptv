@@ -1,6 +1,395 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV1
+http://link.zozotv.xyz:8080/zozo/1234/1427
+#EXTINF:-1 tvg-id="" tvg-name="TV1 (FHD)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV1 (FHD)
+http://link.zozotv.xyz:8080/zozo/1234/1428
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV2
+http://link.zozotv.xyz:8080/zozo/1234/1429
+#EXTINF:-1 tvg-id="" tvg-name="TV2 (FHD)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV2 (FHD)
+http://link.zozotv.xyz:8080/zozo/1234/1430
+#EXTINF:-1 tvg-id="" tvg-name="TV3 (Full HD)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV3 (Full HD)
+http://link.zozotv.xyz:8080/zozo/1234/1431
+#EXTINF:-1 tvg-id="" tvg-name="TV3(HD)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV3(HD)
+http://link.zozotv.xyz:8080/zozo/1234/1432
+#EXTINF:-1 tvg-id="" tvg-name="TV3(SD)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV3(SD)
+http://link.zozotv.xyz:8080/zozo/1234/1433
+#EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV6
+http://link.zozotv.xyz:8080/zozo/1234/1434
+#EXTINF:-1 tvg-id="" tvg-name="NTV7" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",NTV7
+http://link.zozotv.xyz:8080/zozo/1234/1435
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",8TV
+http://link.zozotv.xyz:8080/zozo/1234/1436
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV9
+http://link.zozotv.xyz:8080/zozo/1234/1437
+#EXTINF:-1 tvg-id="" tvg-name="TV9(B)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TV9(B)
+http://link.zozotv.xyz:8080/zozo/1234/1438
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TVS
+http://link.zozotv.xyz:8080/zozo/1234/1439
+#EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Okey
+http://link.zozotv.xyz:8080/zozo/1234/1440
+#EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Awesome TV
+http://link.zozotv.xyz:8080/zozo/1234/1441
+#EXTINF:-1 tvg-id="" tvg-name="Salam HD" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Salam HD
+http://link.zozotv.xyz:8080/zozo/1234/1442
+#EXTINF:-1 tvg-id="" tvg-name="Alhijrah" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Alhijrah
+http://link.zozotv.xyz:8080/zozo/1234/1443
+#EXTINF:-1 tvg-id="" tvg-name="Astro Bernama" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Bernama
+http://link.zozotv.xyz:8080/zozo/1234/1444
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Awani
+http://link.zozotv.xyz:8080/zozo/1234/1445
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani(B)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Awani(B)
+http://link.zozotv.xyz:8080/zozo/1234/1446
+#EXTINF:-1 tvg-id="" tvg-name="Astro Oasis" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Oasis
+http://link.zozotv.xyz:8080/zozo/1234/1447
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Ceria
+http://link.zozotv.xyz:8080/zozo/1234/1448
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria(B)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Ceria(B)
+http://link.zozotv.xyz:8080/zozo/1234/1449
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Premier
+http://link.zozotv.xyz:8080/zozo/1234/1450
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Prima
+http://link.zozotv.xyz:8080/zozo/1234/1451
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima (SD)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Prima (SD)
+http://link.zozotv.xyz:8080/zozo/1234/1452
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ria" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Ria
+http://link.zozotv.xyz:8080/zozo/1234/1453
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ria (B)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Ria (B)
+http://link.zozotv.xyz:8080/zozo/1234/1454
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ria (C)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Ria (C)
+http://link.zozotv.xyz:8080/zozo/1234/1455
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna (A)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Warna (A)
+http://link.zozotv.xyz:8080/zozo/1234/1456
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna (C)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Warna (C)
+http://link.zozotv.xyz:8080/zozo/1234/1457
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna(B)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Warna(B)
+http://link.zozotv.xyz:8080/zozo/1234/1458
+#EXTINF:-1 tvg-id="" tvg-name="Astro Citra" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Citra
+http://link.zozotv.xyz:8080/zozo/1234/1459
+#EXTINF:-1 tvg-id="" tvg-name="Astro Citra(B)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Citra(B)
+http://link.zozotv.xyz:8080/zozo/1234/1460
+#EXTINF:-1 tvg-id="" tvg-name="Astro Aura" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Aura
+http://link.zozotv.xyz:8080/zozo/1234/1461
+#EXTINF:-1 tvg-id="" tvg-name="Astro Rania" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",Astro Rania
+http://link.zozotv.xyz:8080/zozo/1234/1462
+#EXTINF:-1 tvg-id="" tvg-name="NET." tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",NET.
+http://link.zozotv.xyz:8080/zozo/1234/1463
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",ANTV
+http://link.zozotv.xyz:8080/zozo/1234/1464
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",INDOSIAR
+http://link.zozotv.xyz:8080/zozo/1234/1465
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",TRANS TV
+http://link.zozotv.xyz:8080/zozo/1234/1466
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",TRANS 7
+http://link.zozotv.xyz:8080/zozo/1234/1467
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",SCTV
+http://link.zozotv.xyz:8080/zozo/1234/1468
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",MNCTV
+http://link.zozotv.xyz:8080/zozo/1234/1469
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",RCTI
+http://link.zozotv.xyz:8080/zozo/1234/1470
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",GTV
+http://link.zozotv.xyz:8080/zozo/1234/1471
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",TVRI
+http://link.zozotv.xyz:8080/zozo/1234/1472
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indonesia",RTV
+http://link.zozotv.xyz:8080/zozo/1234/1473
+#EXTINF:-1 tvg-id="" tvg-name="Hua Hee Tai" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Hua Hee Tai
+http://link.zozotv.xyz:8080/zozo/1234/1474
+#EXTINF:-1 tvg-id="" tvg-name="Quan Jia" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Quan Jia
+http://link.zozotv.xyz:8080/zozo/1234/1475
+#EXTINF:-1 tvg-id="" tvg-name="IQiyi" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",IQiyi
+http://link.zozotv.xyz:8080/zozo/1234/1476
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Celestial Movies
+http://link.zozotv.xyz:8080/zozo/1234/1477
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies_A" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Celestial Classic Movies_A
+http://link.zozotv.xyz:8080/zozo/1234/1478
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Sinema" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Dunia Sinema
+http://link.zozotv.xyz:8080/zozo/1234/1479
+#EXTINF:-1 tvg-id="" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Degup
+http://link.zozotv.xyz:8080/zozo/1234/1480
+#EXTINF:-1 tvg-id="" tvg-name="Siar" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Siar
+http://link.zozotv.xyz:8080/zozo/1234/1481
+#EXTINF:-1 tvg-id="" tvg-name="Astro BOO (M)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Astro BOO (M)
+http://link.zozotv.xyz:8080/zozo/1234/1482
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",HBO FHD
+http://link.zozotv.xyz:8080/zozo/1234/1483
+#EXTINF:-1 tvg-id="" tvg-name="HBO (M)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",HBO (M)
+http://link.zozotv.xyz:8080/zozo/1234/1484
+#EXTINF:-1 tvg-id="" tvg-name="HBO (ID)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",HBO (ID)
+http://link.zozotv.xyz:8080/zozo/1234/1485
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",HBO Hits
+http://link.zozotv.xyz:8080/zozo/1234/1486
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",HBO Family
+http://link.zozotv.xyz:8080/zozo/1234/1487
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",HBO Signature
+http://link.zozotv.xyz:8080/zozo/1234/1488
+#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE MOVIES" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",SHOWCASE MOVIES
+http://link.zozotv.xyz:8080/zozo/1234/1489
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Rock Action HD
+http://link.zozotv.xyz:8080/zozo/1234/1490
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Paramount Network
+http://link.zozotv.xyz:8080/zozo/1234/1491
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Galaxy
+http://link.zozotv.xyz:8080/zozo/1234/1492
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Galaxy Premium
+http://link.zozotv.xyz:8080/zozo/1234/1493
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Cinemax
+http://link.zozotv.xyz:8080/zozo/1234/1494
+#EXTINF:-1 tvg-id="" tvg-name="Cinemachi" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Cinemachi
+http://link.zozotv.xyz:8080/zozo/1234/1495
+#EXTINF:-1 tvg-id="" tvg-name="Cinemachi Action" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Cinemachi Action
+http://link.zozotv.xyz:8080/zozo/1234/1496
+#EXTINF:-1 tvg-id="" tvg-name="Cinemachi Max" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Cinemachi Max
+http://link.zozotv.xyz:8080/zozo/1234/1497
+#EXTINF:-1 tvg-id="" tvg-name="Cinemachi Xtra" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Cinemachi Xtra
+http://link.zozotv.xyz:8080/zozo/1234/1498
+#EXTINF:-1 tvg-id="" tvg-name="Cinemachi Kids" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Cinemachi Kids
+http://link.zozotv.xyz:8080/zozo/1234/1499
+#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",CinemaWorld
+http://link.zozotv.xyz:8080/zozo/1234/1500
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",MyCinema
+http://link.zozotv.xyz:8080/zozo/1234/1501
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema Asia" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",MyCinema Asia
+http://link.zozotv.xyz:8080/zozo/1234/1502
+#EXTINF:-1 tvg-id="" tvg-name="MyFamily Cinema" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",MyFamily Cinema
+http://link.zozotv.xyz:8080/zozo/1234/1503
+#EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",&Flix HD
+http://link.zozotv.xyz:8080/zozo/1234/1504
+#EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",&Prive HD
+http://link.zozotv.xyz:8080/zozo/1234/1505
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies (FHD)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Star Movies (FHD)
+http://link.zozotv.xyz:8080/zozo/1234/1506
+#EXTINF:-1 tvg-id="" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Movies",Star Movie Select
+http://link.zozotv.xyz:8080/zozo/1234/1507
+#EXTINF:-1 tvg-id="" tvg-name="SONY Pix (FHD)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",SONY Pix (FHD)
+http://link.zozotv.xyz:8080/zozo/1234/1508
+#EXTINF:-1 tvg-id="" tvg-name="HITS Movies" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",HITS Movies
+http://link.zozotv.xyz:8080/zozo/1234/1509
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Thrill
+http://link.zozotv.xyz:8080/zozo/1234/1510
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",IMC
+http://link.zozotv.xyz:8080/zozo/1234/1511
+#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Flik
+http://link.zozotv.xyz:8080/zozo/1234/1512
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Movies",Bioskop Indonesia
+http://link.zozotv.xyz:8080/zozo/1234/1513
+#EXTINF:-1 tvg-id="" tvg-name="KIX (M)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",KIX (M)
+http://link.zozotv.xyz:8080/zozo/1234/1514
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",AXN
+http://link.zozotv.xyz:8080/zozo/1234/1515
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",BBC Lifestyle
+http://link.zozotv.xyz:8080/zozo/1234/1516
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",HGTV
+http://link.zozotv.xyz:8080/zozo/1234/1517
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",Warner TV
+http://link.zozotv.xyz:8080/zozo/1234/1518
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",Lifetime
+http://link.zozotv.xyz:8080/zozo/1234/1519
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",Blue Ant Entertainment
+http://link.zozotv.xyz:8080/zozo/1234/1520
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",HITS
+http://link.zozotv.xyz:8080/zozo/1234/1521
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",Crime Investigation
+http://link.zozotv.xyz:8080/zozo/1234/1522
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Entertainment",Fashion TV
+http://link.zozotv.xyz:8080/zozo/1234/1523
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",Love Nature
+http://link.zozotv.xyz:8080/zozo/1234/1524
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",BBC Earth
+http://link.zozotv.xyz:8080/zozo/1234/1525
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",DMAX
+http://link.zozotv.xyz:8080/zozo/1234/1526
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",History
+http://link.zozotv.xyz:8080/zozo/1234/1527
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",Nat Geo Wild
+http://link.zozotv.xyz:8080/zozo/1234/1528
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",Animal Planet
+http://link.zozotv.xyz:8080/zozo/1234/1529
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",Discovery Channel
+http://link.zozotv.xyz:8080/zozo/1234/1530
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",Discovery Asia
+http://link.zozotv.xyz:8080/zozo/1234/1531
+#EXTINF:-1 tvg-id="" tvg-name="AFC" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Knowledge",AFC
+http://link.zozotv.xyz:8080/zozo/1234/1532
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.ibb.co/ZG7LvmZ/tlc.png" group-title="Knowledge",TLC
+http://link.zozotv.xyz:8080/zozo/1234/1533
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Animax
+http://link.zozotv.xyz:8080/zozo/1234/1534
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Aniplus
+http://link.zozotv.xyz:8080/zozo/1234/1535
+#EXTINF:-1 tvg-id="" tvg-name="Sony GEM TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Sony GEM TV
+http://link.zozotv.xyz:8080/zozo/1234/1536
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",iNews
+http://link.zozotv.xyz:8080/zozo/1234/1537
+#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",TVOne
+http://link.zozotv.xyz:8080/zozo/1234/1538
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",KOMPAS TV
+http://link.zozotv.xyz:8080/zozo/1234/1539
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",METRO TV
+http://link.zozotv.xyz:8080/zozo/1234/1540
+#EXTINF:-1 tvg-id="" tvg-name="SEA Today" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",SEA Today
+http://link.zozotv.xyz:8080/zozo/1234/1541
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",BBC World News
+http://link.zozotv.xyz:8080/zozo/1234/1542
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",NHK World
+http://link.zozotv.xyz:8080/zozo/1234/1543
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",CNN International
+http://link.zozotv.xyz:8080/zozo/1234/1544
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",CNN Indonesia
+http://link.zozotv.xyz:8080/zozo/1234/1545
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",DW
+http://link.zozotv.xyz:8080/zozo/1234/1546
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/86LXN1S/BLOOMBERG.png" group-title="Others",Bloomberg
+http://link.zozotv.xyz:8080/zozo/1234/1547
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Channel News Asia
+http://link.zozotv.xyz:8080/zozo/1234/1548
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Al Quran Al Kareem TV
+http://link.zozotv.xyz:8080/zozo/1234/1549
+#EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",U Channel
+http://link.zozotv.xyz:8080/zozo/1234/1550
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Tawaf TV
+http://link.zozotv.xyz:8080/zozo/1234/1551
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (E)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Cartoon Network (E)
+http://link.zozotv.xyz:8080/zozo/1234/1552
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (ID)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Cartoon Network (ID)
+http://link.zozotv.xyz:8080/zozo/1234/1553
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Dreamworks
+http://link.zozotv.xyz:8080/zozo/1234/1554
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Boomerang
+http://link.zozotv.xyz:8080/zozo/1234/1555
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Nickelodeon
+http://link.zozotv.xyz:8080/zozo/1234/1556
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Nick Jr
+http://link.zozotv.xyz:8080/zozo/1234/1557
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Moonbug
+http://link.zozotv.xyz:8080/zozo/1234/1558
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Horee
+http://link.zozotv.xyz:8080/zozo/1234/1559
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",My Kidz
+http://link.zozotv.xyz:8080/zozo/1234/1560
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",Baby TV
+http://link.zozotv.xyz:8080/zozo/1234/1561
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Kids",BabyFirst
+http://link.zozotv.xyz:8080/zozo/1234/1562
+#EXTINF:-1 tvg-id="" tvg-name="Sony One (M)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Korea",Sony One (M)
+http://link.zozotv.xyz:8080/zozo/1234/1563
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Korea",tvN
+http://link.zozotv.xyz:8080/zozo/1234/1564
+#EXTINF:-1 tvg-id="" tvg-name="tvN Movies" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Korea",tvN Movies
+http://link.zozotv.xyz:8080/zozo/1234/1565
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Korea",KBS World
+http://link.zozotv.xyz:8080/zozo/1234/1566
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Korea",Arirang
+http://link.zozotv.xyz:8080/zozo/1234/1567
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Korea",K+
+http://link.zozotv.xyz:8080/zozo/1234/1568
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Cinema (My)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indian",ZEE Cinema (My)
+http://link.zozotv.xyz:8080/zozo/1234/1569
+#EXTINF:-1 tvg-id="" tvg-name="BoxOffice Thangathirai" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indian",BoxOffice Thangathirai
+http://link.zozotv.xyz:8080/zozo/1234/1570
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vellathirai" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indian",Astro Vellathirai
+http://link.zozotv.xyz:8080/zozo/1234/1571
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indian",Colors HD
+http://link.zozotv.xyz:8080/zozo/1234/1572
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indian",Zee Tamil
+http://link.zozotv.xyz:8080/zozo/1234/1573
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vaanavil" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indian",Astro Vaanavil
+http://link.zozotv.xyz:8080/zozo/1234/1574
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bioskop" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Indian",ZEE Bioskop
+http://link.zozotv.xyz:8080/zozo/1234/1575
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",RTM Sports
+http://link.zozotv.xyz:8080/zozo/1234/1576
+#EXTINF:-1 tvg-id="" tvg-name="Arena" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Arena
+http://link.zozotv.xyz:8080/zozo/1234/1577
+#EXTINF:-1 tvg-id="" tvg-name="Arena 2" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Arena 2
+http://link.zozotv.xyz:8080/zozo/1234/1578
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 720P(Live Only)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Arena Bola 720P(Live Only)
+http://link.zozotv.xyz:8080/zozo/1234/1579
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 1080P(Live Only)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Arena Bola 1080P(Live Only)
+http://link.zozotv.xyz:8080/zozo/1234/1580
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 2 (Live Only)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Arena Bola 2 (Live Only)
+http://link.zozotv.xyz:8080/zozo/1234/1581
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 1" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",NOW Sport 1
+http://link.zozotv.xyz:8080/zozo/1234/1582
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 2" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",NOW Sport 2
+http://link.zozotv.xyz:8080/zozo/1234/1583
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 3" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",NOW Sport 3
+http://link.zozotv.xyz:8080/zozo/1234/1584
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 4" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",NOW Sport 4
+http://link.zozotv.xyz:8080/zozo/1234/1585
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 5" tvg-logo="https://i.ibb.co/c1MZSvW/1684377518885.png" group-title="Sport",NOW Sport 5
+http://link.zozotv.xyz:8080/zozo/1234/1586
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Premier League" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Sky Sport Premier League
+http://link.zozotv.xyz:8080/zozo/1234/1587
+#EXTINF:-1 tvg-id="" tvg-name="ASSP_A" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",ASSP_A
+http://link.zozotv.xyz:8080/zozo/1234/1588
+#EXTINF:-1 tvg-id="" tvg-name="ASSP_B" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",ASSP_B
+http://link.zozotv.xyz:8080/zozo/1234/1589
+#EXTINF:-1 tvg-id="" tvg-name="ASSP2_A" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",ASSP2_A
+http://link.zozotv.xyz:8080/zozo/1234/1590
+#EXTINF:-1 tvg-id="" tvg-name="ASSP2_B" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",ASSP2_B
+http://link.zozotv.xyz:8080/zozo/1234/1591
+#EXTINF:-1 tvg-id="" tvg-name="ASSP3_A" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",ASSP3_A
+http://link.zozotv.xyz:8080/zozo/1234/1592
+#EXTINF:-1 tvg-id="" tvg-name="ASSP3_B" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",ASSP3_B
+http://link.zozotv.xyz:8080/zozo/1234/1593
+#EXTINF:-1 tvg-id="" tvg-name="ASSP4_A" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",ASSP4_A
+http://link.zozotv.xyz:8080/zozo/1234/1594
+#EXTINF:-1 tvg-id="" tvg-name="ASSP4_B" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",ASSP4_B
+http://link.zozotv.xyz:8080/zozo/1234/1595
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Bein 1
+http://link.zozotv.xyz:8080/zozo/1234/1596
+#EXTINF:-1 tvg-id="" tvg-name="Bein 2" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Bein 2
+http://link.zozotv.xyz:8080/zozo/1234/1597
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport (MY)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",BeIN Sport (MY)
+http://link.zozotv.xyz:8080/zozo/1234/1598
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",beIN Sports 1 ID
+http://link.zozotv.xyz:8080/zozo/1234/1599
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ID" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",beIN Sports 2 ID
+http://link.zozotv.xyz:8080/zozo/1234/1600
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",BT Sport 1
+http://link.zozotv.xyz:8080/zozo/1234/1601
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",BT Sport 2
+http://link.zozotv.xyz:8080/zozo/1234/1602
+#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Champions 1
+http://link.zozotv.xyz:8080/zozo/1234/1603
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Usee Sport 1
+http://link.zozotv.xyz:8080/zozo/1234/1604
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Usee Sport 2
+http://link.zozotv.xyz:8080/zozo/1234/1605
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV (MY)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",SPOTV (MY)
+http://link.zozotv.xyz:8080/zozo/1234/1606
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV (IDN)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",SPOTV (IDN)
+http://link.zozotv.xyz:8080/zozo/1234/1607
+#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Spotv 2
+http://link.zozotv.xyz:8080/zozo/1234/1608
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",WWE
+http://link.zozotv.xyz:8080/zozo/1234/1609
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Eurosport
+http://link.zozotv.xyz:8080/zozo/1234/1610
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Eurosport 2
+http://link.zozotv.xyz:8080/zozo/1234/1611
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",NBA TV
+http://link.zozotv.xyz:8080/zozo/1234/1612
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",Fight Sport
+http://link.zozotv.xyz:8080/zozo/1234/1613
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",MTV Live HD
+http://link.zozotv.xyz:8080/zozo/1234/1614
+#EXTINF:-1 tvg-id="" tvg-name="Channel V. Int" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Channel V. Int
+http://link.zozotv.xyz:8080/zozo/1234/1615
+#EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",Prambors
+http://link.zozotv.xyz:8080/zozo/1234/1616
+#EXTINF:-1 tvg-id="" tvg-name="i-Konser" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Others",i-Konser
+http://link.zozotv.xyz:8080/zozo/1234/1617
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",NBC Golf
+http://link.zozotv.xyz:8080/zozo/1234/1618
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Sport",O Channel
+http://link.zozotv.xyz:8080/zozo/1234/1619
+
+
 ###############  VISIONPLUS 2024
 
 

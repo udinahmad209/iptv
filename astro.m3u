@@ -1,5 +1,76 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f35b9cb2574b4a94bc0d8b6fd6475733/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO SUPERSPORT 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/91a7c64742434b9b933910905f0c33e2/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO SUPERSPORT 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/62748465a2554dfaae32a9131c885f60/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO SUPERSPORT 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/192435e242ee47cca085a7a310677dce/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO SUPERSPORT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF:-1 tvg-id="ASTRO ARENA 2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/06026bebbc0e42eb8483e2c1a6c96f08/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO ARENA 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF:-1 tvg-id="ASTRO ARENA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/d6c7024d16db400b834bbe14b51c5789/version/0/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO ARENA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF:-1 tvg-id="ARENA BOLA 2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/30f56f0250e843be9263422e38d57059/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ARENA BOLA 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+#EXTINF:-1 tvg-id="ARENA BOLA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/907d5fce441e4fae90f3839d0522f868/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ARENA BOLA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF:-1 tvg-id="ASTRO CRICKET HD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/862489a719c64f3bbd894dbd5eb06c6b/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO CRICKET HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a6eeadb42ec6443fb027e24d6180c790/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", beIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a71f8dc3fb554106ba93cf03af6d7499/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", beIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/541416814a32457da86263874a8536e8/version/2/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", beIN SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
+#EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a60268b0e05949e3bc4ecba4a7833c9e/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH3/masterCH3.mpd
+#EXTINF:-1 tvg-id="SPOTV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/251ca39a5da748d29ab60e6e731d25b4/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", SPOTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
 #EXTINF:-1 tvg-id="SPOTV Stadia" group-logo="https://img.astroawani.com/2021-06/51623077545_sookaMalaysialogo.jpg" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3be546e016d043aebbd64ab46d72a9b6/version/0/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", SPOTV Stadia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
@@ -250,73 +321,3 @@ http://sg.bizfix.in/https://linear09-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://sg.bizfix.in/https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f35b9cb2574b4a94bc0d8b6fd6475733/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO SUPERSPORT 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/91a7c64742434b9b933910905f0c33e2/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO SUPERSPORT 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/62748465a2554dfaae32a9131c885f60/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO SUPERSPORT 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/192435e242ee47cca085a7a310677dce/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO SUPERSPORT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-#EXTINF:-1 tvg-id="ASTRO ARENA 2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/06026bebbc0e42eb8483e2c1a6c96f08/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO ARENA 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
-#EXTINF:-1 tvg-id="ASTRO ARENA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/d6c7024d16db400b834bbe14b51c5789/version/0/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO ARENA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
-#EXTINF:-1 tvg-id="ARENA BOLA 2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/30f56f0250e843be9263422e38d57059/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ARENA BOLA 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-#EXTINF:-1 tvg-id="ARENA BOLA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/907d5fce441e4fae90f3839d0522f868/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ARENA BOLA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-#EXTINF:-1 tvg-id="ASTRO CRICKET HD" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/862489a719c64f3bbd894dbd5eb06c6b/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", ASTRO CRICKET HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a6eeadb42ec6443fb027e24d6180c790/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", beIN SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a71f8dc3fb554106ba93cf03af6d7499/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", beIN SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/541416814a32457da86263874a8536e8/version/2/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", beIN SPORTS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
-#EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a60268b0e05949e3bc4ecba4a7833c9e/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", SPOTV2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://dcqkiaqc3sngm.cloudfront.net/CH3/masterCH3.mpd
-#EXTINF:-1 tvg-id="SPOTV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/251ca39a5da748d29ab60e6e731d25b4/version/1/width/315/height/177/quality/80" group-title="OD | ASTRO SOOKA PREMIUM", SPOTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://sg.bizfix.in/https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd

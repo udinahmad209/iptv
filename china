@@ -37,3 +37,64 @@ https://node3.olelive.com:6443/live/CCTV15HD/hls.m3u8
 https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV 17 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv17.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 17 FHD
 https://node3.olelive.com:6443/live/CCTV17HD/hls.m3u8
+
+
+#EXTINF:-1 tvg-name="Phoenix Chinese" group-title="CHINA TV",Phoenix Chinese
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/28
+#EXTINF:-1 tvg-name="Animal Planet [Eng Sub]" group-title="CHINA TV",Animal Planet [Eng Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/48
+#EXTINF:-1 tvg-name="NASA TV HD" group-title="CHINA TV",NASA TV HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/49
+#EXTINF:-1 tvg-name="Astro TVB Xing He-Test" group-title="CHINA TV",Astro TVB Xing He-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/50
+#EXTINF:-1 tvg-name="Astro BOO-Test" group-title="CHINA TV",Astro BOO-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
+#EXTINF:-1 tvg-name="Astro Hua Hee Dai-Test" group-title="CHINA TV",Astro Hua Hee Dai-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
+#EXTINF:-1 tvg-name="Astro AEC-Test" group-title="CHINA TV",Astro AEC-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+#EXTINF:-1 tvg-name="FTV-Test" group-title="CHINA TV",FTV-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/65
+#EXTINF:-1 tvg-name="姚江文化-Test" group-title="CHINA TV",姚江文化-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/66
+#EXTINF:-1 tvg-name="新闻综合-Test" group-title="CHINA TV",新闻综合-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/67
+#EXTINF:-1 tvg-name="新闻综合HD-Test" group-title="CHINA TV",新闻综合HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/68
+#EXTINF:-1 tvg-name="CCTV 1HD-Test" group-title="CHINA TV",CCTV 1HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/70
+#EXTINF:-1 tvg-name="CCTV 2HD-Test" group-title="CHINA TV",CCTV 2HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/71
+#EXTINF:-1 tvg-name="CCTV 5HD-Test" group-title="CHINA TV",CCTV 5HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
+#EXTINF:-1 tvg-name="CCTV 5PlusHD-Test" group-title="CHINA TV",CCTV 5PlusHD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
+#EXTINF:-1 tvg-name="CCTV 6HD-Test" group-title="CHINA TV",CCTV 6HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/74
+#EXTINF:-1 tvg-name="CCTV 8HD-Test" group-title="CHINA TV",CCTV 8HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/75
+#EXTINF:-1 tvg-name="CCTV 9HD-Test" group-title="CHINA TV",CCTV 9HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/76
+#EXTINF:-1 tvg-name="CCTV 16HD-Test" group-title="CHINA TV",CCTV 16HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（美)-Test" group-title="CHINA TV",CCTV-4 中文国际（美)-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/82
+#EXTINF:-1 tvg-name="iQIYI HD [Astro]" group-title="CHINA TV",iQIYI HD [Astro]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/141
+#EXTINF:-1 tvg-name="诸暨新闻综合" group-title="CHINA TV",诸暨新闻综合
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/154
+#EXTINF:-1 tvg-name="Baby TV" group-title="CHINA TV",Baby TV
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/158
+#EXTINF:-1 tvg-name="YMG 未来频道" group-title="CHINA TV",YMG 未来频道
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/159
+#EXTINF:-1 tvg-name="YMG 新闻频道" group-title="CHINA TV",YMG 新闻频道
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/160
+#EXTINF:-1 tvg-name="兰溪新闻综合" group-title="CHINA TV",兰溪新闻综合
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/161
+#EXTINF:-1 tvg-name="ON Style HD" group-title="CHINA TV",ON Style HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/163
+
+
+
+
+

@@ -1,0 +1,263 @@
+#EXTM3U
+
+#EXTM3U refresh="2400"
+
+
+
+
+
+
+##############################
+
+#EXTINF:-1  group-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" 
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",Sportstars 3 HD 
+#EXTGRP:00. euro-2024 (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",Sportstars 3 HD (BACKUP)
+#EXTGRP:00. euro-2024 (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",Sportstars 4 HD
+#EXTGRP:00. euro-2024 (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",Sportstars 4 HD (BACKUP)
+#EXTGRP:00. euro-2024 (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
+
+############
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title=" EUROCOPA",EUROCOPA LA1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title=" EUROCOPA",EUROCOPA LA2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
+
+
+#EXTINF:-1 tvg-name="Soccer 01: 12:00 PM (E.T) | Eslovaquia vs Rumania | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title=" EUROCOPA",Soccer 01: 12:00 PM (E.T) | Eslovaquia vs Rumania | EUROCOPA
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135029
+#EXTINF:-1 tvg-name="Soccer 02: 12:00 PM (E.T) | Ucrania vs Belgica | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title=" EUROCOPA",Soccer 02: 12:00 PM (E.T) | Ucrania vs Belgica | EUROCOPA
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135030
+#EXTINF:-1 tvg-name="Soccer 03: 03:00 PM (E.T) | Republica Checa vs Turquia | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title=" EUROCOPA",Soccer 03: 03:00 PM (E.T) | Republica Checa vs Turquia | EUROCOPA
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135031
+#EXTINF:-1 tvg-name="Soccer 04: 03:00 PM (E.T) | Georgia vs Portugal | EUROCOPA" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title=" EUROCOPA",Soccer 04: 03:00 PM (E.T) | Georgia vs Portugal | EUROCOPA
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135032
+
+
+######################
+
+
+
+
+
+#######################################   group-title="00. EURO 2024 (BACKUP)"
+
+
+#EXTINF:-1  group-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png"  group-title="00. EURO 2024 (BACKUP)"
+
+#EXTINF:-1 tvg-id="SPOTV Stadia" group-logo="https://img.astroawani.com/2021-06/51623077545_sookaMalaysialogo.jpg" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3be546e016d043aebbd64ab46d72a9b6/version/0/width/315/height/177/quality/80" group-title="00. EURO 2024 (BACKUP)", SPOTV Stadia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://d3pjpbn7s5952i.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="SPOTV Stadia" group-logo="https://img.astroawani.com/2021-06/51623077545_sookaMalaysialogo.jpg" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3be546e016d043aebbd64ab46d72a9b6/version/0/width/315/height/177/quality/80" group-title="00. EURO 2024 (BACKUP)", SPOTV Stadia 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cibai.line.pm/clearkey/sooka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://sg.bizfix.in/https://do3s959wk9gaq.cloudfront.net/CH1/masterCH1.mpd
+
+
+
+
+
+#EXTINF:-1  group-title="00. EURO 2024 (BACKUP)",ViX-TUDN 
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+
+#EXTINF:-1  group-title="00. EURO 2024 (BACKUP)",TRT 1
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="sport.tv1.pt" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-1-pt.png"  group-title="00. EURO 2024 (BACKUP)",Sport TV 1 PT
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sport.tv1.pt.m3u8
+
+
+#EXTINF:-1 tvg-id="ss.football.plus.ze" tvg-name="ss.football.plus.ze" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="00. EURO 2024 (BACKUP)",SuperSport Football+
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/ss.football.plus.ze.m3u8
+
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="00. EURO 2024 (BACKUP)",SuperSport Football
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/ss.football.ze.m3u8
+
+
+#EXTINF:-1 tvg-id="bbc.one.uk" tvg-name="bbc.one.uk" tvg-logo="https://media.tv4.live/bbc.one.uk.png" group-title="00. EURO 2024 (BACKUP)",BBC 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bbc.one.uk.m3u8
+#EXTINF:-1 tvg-id="itv.1.uk" tvg-name="itv.1.uk" tvg-logo="https://media.tv4.live/itv.1.uk.png" group-title="00. EURO 2024 (BACKUP)",ITV
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/itv.1.uk.m3u8
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="fox.sports.1.us" tvg-logo="https://media.tv4.live/fox.sports.1.us.png" group-title="00. EURO 2024 (BACKUP)",Fox Sports 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fox.sports.1.us.m3u8
+#EXTINF:-1 tvg-id="npo.1.nl" tvg-name="npo.1.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4eGwWlPuIK0gGqDZTlwuMpcS7TrFckSm2ThnjdGM06XV2gVLUyzlRw&s" group-title="00. EURO 2024 (BACKUP)",NPO 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/npo.1.nl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bRvCWnQ/npo1.png" group-title="00. EURO 2024 (BACKUP)", NPO 1 (MPD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
+https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
+
+
+#EXTINF:-1 tvg-id="tva.sports.ca" tvg-name="tva.sports.ca" tvg-logo="https://media.tv4.live/tva.sports.ca.png" group-title="00. EURO 2024 (BACKUP)",TVA Sports FR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tva.sports.ca.m3u8
+#EXTINF:-1 tvg-id="orf.1.de" tvg-name="orf.1.de" tvg-logo="https://media.tv4.live/orf.1.de.png" group-title="00. EURO 2024 (BACKUP)",ORF 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/orf.1.de.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="zdf.de" tvg-logo="https://media.tv4.live/zdf.de.png" group-title="00. EURO 2024 (BACKUP)",ZDF
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/zdf.de.m3u8
+
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="rtl.de" tvg-logo="https://media.tv4.live/rtl.de.png" group-title="00. EURO 2024 (BACKUP)",RTL
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/rtl.de.m3u8
+#EXTINF:-1 tvg-id="rai.1.it" tvg-name="rai.1.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoYSNpz4a1PkeQBmvwySLPmkWL64WECuNHE_X-0tPFc4DXHAO7MoWow&s" group-title="00. EURO 2024 (BACKUP)",Rai 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/rai.1.it.m3u8
+#EXTINF:-1 tvg-id="sky.calcio.it" tvg-name="sky.calcio.it" tvg-logo="https://media.tv4.live/sky.calcio.it.png" group-title="00. EURO 2024 (BACKUP)",Sky Calcio
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.calcio.it.m3u8
+#EXTINF:-1 tvg-id="tvp.sport.pl" tvg-name="tvp.sport.pl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6eYXwpZ_gdera3qv8BodRBrs_FmtnL7Ixy3ffwnaVMR6u_l8bJRIQ7u0&s" group-title="00. EURO 2024 (BACKUP)",TVP Sport
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tvp.sport.pl.m3u8
+#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="rtp.1.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM0VvmU50SWwUJppcOhYxt8Whl0M7efGv4tcIvkI1FxtYeIu42MCs-HA&s" group-title="00. EURO 2024 (BACKUP)",RTP 1 PT
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/rtp.1.pt.m3u8
+
+#EXTINF:-1 tvg-id="pro.tv.ro" tvg-name="pro.tv.ro" tvg-logo="https://media.tv4.live/pro.tv.ro.png" group-title="00. EURO 2024 (BACKUP)",Pro TV
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/pro.tv.ro.m3u8
+#EXTINF:-1 tvg-id="la.1.es" tvg-name="la.1.es" tvg-logo="https://media.tv4.live/la.1.es.png" group-title="00. EURO 2024 (BACKUP)",La 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/la.1.es.m3u8
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="00. EURO 2024 (BACKUP)" tvg-name="La 1", LA 1 (MPD) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="tsn1.ca" tvg-logo="https://media.tv4.live/tsn1.ca.png" group-title="00. EURO 2024 (BACKUP)",TSN 1 CA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn1.ca.m3u8
+
+#EXTINF:-1 tvg-id="ard.de" tvg-name="ard.de" tvg-logo="https://media.tv4.live/ard.de.png" group-title="00. EURO 2024 (BACKUP)",ARD
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/ard.de.m3u8
+
+
+#EXTINF:-1 tvg-id="fox.wnyw.new.york.ny.us" tvg-name="fox.wnyw.new.york.ny.us" tvg-logo="https://media.tv4.live/fox.wnyw.new.york.ny.us.png" group-title="00. EURO 2024 (BACKUP)",FOX (WNYW) New York NY
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fox.wnyw.new.york.ny.us.m3u8
+
+#EXTINF:-1 tvg-id="fox.deportes.us" tvg-name="fox.deportes.us" tvg-logo="https://media.tv4.live/fox.deportes.us.png" group-title="00. EURO 2024 (BACKUP)",Fox Deportes
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fox.deportes.us.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gJvb0LT/cctv5.png" group-title="00. EURO 2024 (BACKUP)" , CCTV-5
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7k9CYbZ/cctv5plus.png" group-title="00. EURO 2024 (BACKUP)" , CCTV5+
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7k9CYbZ/cctv5plus.png" group-title="00. EURO 2024 (BACKUP)" , CCTV5+
+http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7k9CYbZ/cctv5plus.png" group-title="00. EURO 2024 (BACKUP)" , CCTV5+
+http://119.125.134.217:9901/tsfile/live/1148_1.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gJvb0LT/cctv5.png" group-title="00. EURO 2024 (BACKUP)" , CCTV-5
+http://123.183.76.190:808/hls/78/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7k9CYbZ/cctv5plus.png" group-title="00. EURO 2024 (BACKUP)" , CCTV5+
+http://123.183.76.190:808/hls/61/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="00. EURO 2024 (BACKUP)" , persiana sports
+https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
+
+
+#EXTINF:-1 group-title="00. EURO 2024 (BACKUP)" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png", PPTV 36 (3bbtv.com)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+
+#EXTINF:-1 group-title="00. EURO 2024 (BACKUP)" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png", PPTV 36 (pptv-7jdibe) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0dbd58616d7355b7a1a7c89df6a60199":"b755de82e54d2aa45ce8e39b80f45ed5","66f03e62d21d5a6397841fc2de1391eb":"75502c6cf014a32a18c9db45ca13a6c3","3ba59a2a76105666b260332e35e483f0":"6dca3af3176e313b6798f81120edd77d"}
+https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
+
+
+#EXTINF:-1 tvg-name="SONY TEN 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIYkAGi1rjq4OSnYg9nosUzqJPQKnccs508qfdS-M1k3E.png" group-title="00. EURO 2024 (BACKUP)",SONY TEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12173
+#EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIYkAGi1rjq4OSnYg9nosUzqJPQKnccs508qfdS-M1k3E.png" group-title="00. EURO 2024 (BACKUP)",SONY TEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12174
+#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIYkAGi1rjq4OSnYg9nosUzqJPQKnccs508qfdS-M1k3E.png" group-title="00. EURO 2024 (BACKUP)",SONY TEN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12175
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://img.fcbayern.com/image/upload/t_cms-2x1/f_auto/w_1600%2Cc_fill/q_auto/v1633517118/cms/public/images/allianz-arena/europameisterschaft/UEFA-EURO2024-KV_UEFA.png" group-title="00. EURO 2024 (BACKUP)",SPOTV Stadia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+http://103.47.210.244:8080/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTM2NTk5NSwiaWF0IjoxNzE4NzYxOTk1fQ.C4o4scs7CVvLO_8l4Ks8y1NIfHJ4UmsrVL_uixbh_Q4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VYm6JmXI2v2p+5fz1+9Sbg","kid":"bxWpsvJ7StqpWQUNtgPAjw"}],"type":"temporary"}
+#EXTINF:-1 group-title="00. EURO 2024 (BACKUP)" tvg-logo="https://telegra.ph/file/a753f71d686cef4de067e.png" tvg-id="808.astro",SPOTV Stadia
+http://103.47.210.244:8080/https://d3pjpbn7s5952i.cloudfront.net/CH1/masterCH1.mpd
+
+
+
+
+
+
+#################
+
+
+#######################  
+
+#EXTINF:-1  group-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="00. EURO 2024 (tv360)" ,tv360plus1
+https://tth.vn/tv360plus1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="00. EURO 2024 (tv360)" ,tv360plus2
+https://tth.vn/tv360plus2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="00. EURO 2024 (tv360)" ,tv360plus3
+https://tth.vn/tv360plus3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJ9ZBwM/tv360.jpg" group-title="00. EURO 2024 (tv360)" ,tv360plus4
+https://tth.vn/tv360plus4

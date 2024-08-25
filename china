@@ -1,100 +1,95 @@
+
 #EXTM3U
-
-
-#EXTINF:-1 tvg-name="CCTV 1 FHD CN"  tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 1 FHD 
-https://node3.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 2 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv2.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 2 FHD
-https://node3.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 3 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv3.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 3 FHD 
-https://node3.olelive.com:6443/live/CCTV3HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 4 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv4.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 4 FHD
-https://node3.olelive.com:6443/live/CCTV4HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv5.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 5 FHD 
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv5plus.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 5 PLUS FHD 
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv6.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 6 FHD 
-https://node3.olelive.com:6443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 7 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv7.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 7 FHD 
-https://node3.olelive.com:6443/live/CCTV7HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 8 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv8.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 8 FHD
-https://node3.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 9 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv9.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 9 FHD 
-https://node3.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 10 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv10.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 10 FHD 
-https://node3.olelive.com:6443/live/CCTV10HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 11 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv11.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 11 FHD 
-https://node3.olelive.com:6443/live/CCTV11HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 12 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv12.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 12 FHD 
-https://node3.olelive.com:6443/live/CCTV12HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 13 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv13.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 13 FHD 
-https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 14 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv14.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 14 FHD 
-https://node3.olelive.com:6443/live/CCTV14HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 15 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv15.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 15 FHD 
-https://node3.olelive.com:6443/live/CCTV15HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 17 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv16.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 16 FHD
-https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV 17 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv17.jpg" group-title="CCTV BY OLELIVE.COM",CCTV 17 FHD
-https://node3.olelive.com:6443/live/CCTV17HD/hls.m3u8
-
-
-#EXTINF:-1 tvg-name="Phoenix Chinese" group-title="CHINA TV",Phoenix Chinese
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/28
-#EXTINF:-1 tvg-name="Animal Planet [Eng Sub]" group-title="CHINA TV",Animal Planet [Eng Sub]
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/48
-#EXTINF:-1 tvg-name="NASA TV HD" group-title="CHINA TV",NASA TV HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/49
-#EXTINF:-1 tvg-name="Astro TVB Xing He-Test" group-title="CHINA TV",Astro TVB Xing He-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/50
-#EXTINF:-1 tvg-name="Astro BOO-Test" group-title="CHINA TV",Astro BOO-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
-#EXTINF:-1 tvg-name="Astro Hua Hee Dai-Test" group-title="CHINA TV",Astro Hua Hee Dai-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
-#EXTINF:-1 tvg-name="Astro AEC-Test" group-title="CHINA TV",Astro AEC-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
-#EXTINF:-1 tvg-name="FTV-Test" group-title="CHINA TV",FTV-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/65
-#EXTINF:-1 tvg-name="姚江文化-Test" group-title="CHINA TV",姚江文化-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/66
-#EXTINF:-1 tvg-name="新闻综合-Test" group-title="CHINA TV",新闻综合-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/67
-#EXTINF:-1 tvg-name="新闻综合HD-Test" group-title="CHINA TV",新闻综合HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/68
-#EXTINF:-1 tvg-name="CCTV 1HD-Test" group-title="CHINA TV",CCTV 1HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/70
-#EXTINF:-1 tvg-name="CCTV 2HD-Test" group-title="CHINA TV",CCTV 2HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/71
-#EXTINF:-1 tvg-name="CCTV 5HD-Test" group-title="CHINA TV",CCTV 5HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
-#EXTINF:-1 tvg-name="CCTV 5PlusHD-Test" group-title="CHINA TV",CCTV 5PlusHD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
-#EXTINF:-1 tvg-name="CCTV 6HD-Test" group-title="CHINA TV",CCTV 6HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/74
-#EXTINF:-1 tvg-name="CCTV 8HD-Test" group-title="CHINA TV",CCTV 8HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/75
-#EXTINF:-1 tvg-name="CCTV 9HD-Test" group-title="CHINA TV",CCTV 9HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/76
-#EXTINF:-1 tvg-name="CCTV 16HD-Test" group-title="CHINA TV",CCTV 16HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
-#EXTINF:-1 tvg-name="CCTV-4 中文国际（美)-Test" group-title="CHINA TV",CCTV-4 中文国际（美)-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/82
-#EXTINF:-1 tvg-name="iQIYI HD [Astro]" group-title="CHINA TV",iQIYI HD [Astro]
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/141
-#EXTINF:-1 tvg-name="诸暨新闻综合" group-title="CHINA TV",诸暨新闻综合
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/154
-#EXTINF:-1 tvg-name="Baby TV" group-title="CHINA TV",Baby TV
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/158
-#EXTINF:-1 tvg-name="YMG 未来频道" group-title="CHINA TV",YMG 未来频道
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/159
-#EXTINF:-1 tvg-name="YMG 新闻频道" group-title="CHINA TV",YMG 新闻频道
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/160
-#EXTINF:-1 tvg-name="兰溪新闻综合" group-title="CHINA TV",兰溪新闻综合
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/161
-#EXTINF:-1 tvg-name="ON Style HD" group-title="CHINA TV",ON Style HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/163
-
-
-
-
-
+#EXTINF:-1 group-title="中国",CCTV1 综合
+https://livednow.com/migu/608807420?sign=gAAAAABmozHgjUlB75aG-kBQIFnuF_qCV-2Hcjo4tJ-C1CIwvehZdt-b2fm73w26VSRf-Ks7oNnj0mgaVft6bxawzQ_zyz_GJwHvNgLZk-V3q_smYA3D8L2yyhoMbiEVdR7GrVwQNSpgPcvt8RRH-Weq-Znd2-gHXJN8aBBQQH-udRJEfbRn-h_xa4QVyA4QZ-EWYA6Lt6X2aKt3ANnJMdSL07ntvwEcag%3D%3D
+#EXTINF:-1 group-title="中国",CCTV2 财经
+https://livednow.com/migu/631780532?sign=gAAAAABmozHgV9ix-fYPAKt0fdBqN9QVn9gBupNrhfAvqiGCYxhfu0b9enYJ9L0wwBZ3JIoQTXsSbef_MzKo4JwdjFIHfxral2SyZL0ckbGl_0lcFK_9G0N1TlPfNp6rUzLTN1nP81RLW6pmG7r4BcBlNp5Dqxrb28SVVaBi5r2W85y1Jea4eBbED7h7eoz6Q8UCPjH5HF8F17Ys7a-8Vx4KQs9whdzOhg%3D%3D
+#EXTINF:-1 group-title="中国",CCTV3 综艺
+https://livednow.com/migu/624878271?sign=gAAAAABmozHgiSsRi7d1DPi8JT2B5P3UcICMw3DuIcLPwv5k6yBkf17r78seCis3nVZ1ZUafYgCyFmHybtC_v7Inn93ZDgjEBbn9i69fLo9g_uELH4oG7tgsNdBFmqEYrSZ8Uf8hAqBCRu34WWS9NR6wflfPksJV847lmCM5UIszHuiFfMOCHIMd3UrtmEXcg1SR4H-gCqoU59bIDeaScFMfML7BqzbICA%3D%3D
+#EXTINF:-1 group-title="中国",CCTV4 中文国际
+https://livednow.com/migu/631780421?sign=gAAAAABmozHgMuxegLdhRSUyg-rf6FJNfuMABqRU-YX2SAl51JBBqf6zT1wkfzVme-nNf3SlX8-g_Wh9QRBjNL4Oyu4Ds3k1dudL6UW9R_L08_mxFuStSfwFORi7BQINHukyobUqIp0xeeQPtDGXIDiNqaVmn_SqlykGokWgMywV1ryLzdt-Su1691Qt4CZJxac5F06x885k3jeADIFD5BMVp0RH9kSMEA%3D%3D
+#EXTINF:-1 group-title="中国",CCTV5 体育
+https://livednow.com/migu/641886683?sign=gAAAAABmozHg23Gh6HcESG-oWCn40zyh6aw6SodGtWh6ghbSw28DCb5L0vcgWQIqQSpS8Msp681mQ_aTgSnWKEWC__W7OuVCjoDXfitRyFv8-nxyAVbuZ9XcCykF5s3A7N-qXVkA0J_xs166eBSefWiG89dpN4BU5zOM3XeSnVFywPcaXY-yjSiTnCWaY9R7PKs5lgCCYYbNuAW43K5fJdzfiQdEoOV9Hw%3D%3D
+#EXTINF:-1 group-title="中国",CCTV5+ 体育赛事
+https://livednow.com/migu/641886773?sign=gAAAAABmozHg-N3w7meltdz8HkNTi254b59_xWbOagdtMHpgnsP0DIIaZXHYMz19PeUGbSU4P85BDstX8gmyVCFpUt-pzRXsYFevbhedr9EDAGLHTRTIGvZYwJLvOaXsAySjrGR-v0Uvzu40IjggncfbtBJb4fY6McYhANTHqknw13CCUeC6u-Qz8ctWkmdTXS1siPEAU4xfo0Bwo8NE2txLIzCTH_0ysg%3D%3D
+#EXTINF:-1 group-title="中国",CCTV6 电影
+https://livednow.com/migu/624878396?sign=gAAAAABmozHgZ27fk-0alYKh4Brkjc1ftIgBQwNkfOVNnZMf56zdYS524WU9uG5qbdzlQzx7ve4wirdOSjhNdIj9XrqPPhN4FAlpugFvSPNyYy_0vtJd_C4p6eq92Qjzm8RtWD3lHBBtzyKz91K0zP85RH-m-ZQpkCHu1S26TMJoJ-bHU_7nlRaYaT-vVfQYOO6ZUxOBHh_7tvbict43HxurPy9x6zKVwA%3D%3D
+#EXTINF:-1 group-title="中国",CCTV7 国防军事
+https://livednow.com/migu/673168121?sign=gAAAAABmozHggPQdXuQ4mtYlnmkD4_6VnyfZQsxtgQgmGpO5wJ9j4sgNEAD1Ai43xbCwQMlus5LtPjzWOzenm7Qpl_10CSHfDpxHgRbXsUpIV2-5rMxkACr71XYqOLzjEZ62p1RTGhD1RPvzEgJXB9xGR15In4WC4g8pISu9dEPfwGvFrqU5rqJfSPiyklSyfqhxbTwidNfgK0Sj4PZpUgwZW4f45e5ByA%3D%3D
+#EXTINF:-1 group-title="中国",CCTV8 电视剧
+https://livednow.com/migu/624878356?sign=gAAAAABmozHgn9dky3E6MZ0-v1EnQoIik7eJDLaXhjuhjyRLz3Vlbj-701C1gK5Z1sYOlt7IF9bnaUkFPkfO9oODJNMRSKlCSKoX-_YLParbMkCcaClKvfh41p_8j18BMK1b4KlK0gVIVytWhO8APDKC0kj5pbBssEChWCujQaRPHDjSICSkU5RWtQe2RKjFlUlRaF8nW81UlM5cjm7Tc3Kql_-3JtsK5g%3D%3D
+#EXTINF:-1 group-title="中国",CCTV9 纪录
+https://livednow.com/migu/673168140?sign=gAAAAABmozHgfQztHfPduFZLeBm9z9v7ofAenqGDK4dk9SSo_264REwYcAjX6d74jeUv4Kn6xZUWMYJI0DOeFrczr_PPZzCuaG4KXCBpq3lSFsABodFGhaDXBohcPPEEjIrYiOic2wY9hYAyRXAa7eGwlWcNLi136XhVAtVB5DeGNrRCw6NgdPCZ6b3E3SzND325Gq_pdV8-iLhOdFCtaa4aAG7TSLtfbg%3D%3D
+#EXTINF:-1 group-title="中国",CCTV10 科教
+https://livednow.com/migu/624878405?sign=gAAAAABmozHgrwu5NGB739dhRHZAVKD6SsAWpzYfGAzhFdQiCI_1EKzZksO7KfbAvwV5QbkOj6kRy-BNK1AKGOFrvq9Xuw9EcLGudROiEU8XodkTmDsv17rV9iLgS1zrXlAZsGJlGCqhiO5TkMQY236MIjMmMgZzGkRU0FSO35Qa99Aky6S9Lx53AJ39VXA1SKw3mK0S9Kwn0q9CNMqp_buByZu8y-fkRQ%3D%3D
+#EXTINF:-1 group-title="中国",CCTV11 戏曲
+https://livednow.com/migu/667987558?sign=gAAAAABmozHgtIl_Q9pcjCeaf9Fx3PhgOsx-KKQcp3Hli7teYhDnZ67zgQflPLEEK6BSER0rp8XvRLdNtnCWSIec9wr3C_EI4hvpbfm2pkhixfIp-9ZKgg3-ET_7aK9J7akP6SUL3T3ScLCTsrk6inzMr7DEOjG4Wk3m5h_6YFF19yxOTXs7rIb6L2-9kgPk4hWr51AyG-F98xq-fKusTIxle5-SYRPqXg%3D%3D
+#EXTINF:-1 group-title="中国",CCTV12 社会与法
+https://livednow.com/migu/673168185?sign=gAAAAABmozHgaKuk0pjZCab_kEyHpn_3HaEb9xoxWna7pPUjB4Wt99vf3WKnL9oCxreMvLe4tShPp9A0iD6ED6cwo7GQVyK-Gpx_x_l8YNMMYTcUVtqvpweDd9Z3Gd1Bg-sUus1mSaEUP2PZ2P4deCOR6xKGukIr2hPTloIqHBLheP4oaun2IY4ykP3zaRNDne5HzuIb7GbY78kOCuRzkpYwqZ--_sSJHQ%3D%3D
+#EXTINF:-1 group-title="中国",CCTV13 新闻
+https://livednow.com/migu/608807423?sign=gAAAAABmozHgWk_HnHB_48xLtidiRynoYxrmA3cewL58z-EiZJzlVKfKcN38UjkQgQDuYpG6Aa1AWued1xigZG7SRZgFLV0L51jF7VCUXfKM-shnqD6y5E7ztrnGhGdlPZ2kDbpbTYjVrGj6tzG3OpjZeDQWV0sdHbWchFopt-47GPFLkunEkWpuFns5M0ZwaNV4aERxa8vnPFB4_mr2FUtiPYCN0UfxJA%3D%3D
+#EXTINF:-1 group-title="中国",CCTV14 少儿
+https://livednow.com/migu/624878440?sign=gAAAAABmozHgdjLFb3CdrfFuXqTJT2FlEqCbp91L1gm2KX9Cf936173H6Faai1YFqrmADXobKDRf3AKT7gEB6uduO9Aq5PcBCPAG918780PuBdjo1_-lkfFqaEg2BCqOU5r6VMbYCvD0OeqcTtCndjhrKTSfSQbzxOXwsK67k60sCVCrly_Pm8202lrKOHYwXxHgG3QNDqN-8ytiYnuomGsbavY2Cy_O1w%3D%3D
+#EXTINF:-1 group-title="中国",CCTV15 音乐
+https://livednow.com/migu/673168223?sign=gAAAAABmozHgwktyUQRk8WRmN4XIJy3JSRu4hj4wlIns_COo_jUrKvvxdle3Qbkvbjf4m_4sMPQUyiIatR4mO2CB6t7phJa09JnJ07OTD6c6N89_Gbeg8rwH9EiFsrjMtWh_umpdNLsDuqOz1qAD_RXZl2VnYOt4mWMdgediv64M-49vbT25Wd2CzZZ6KamE5xY9VomMtwHaV4x67HHyzXhe-PTMpZRplQ%3D%3D
+#EXTINF:-1 group-title="中国",CCTV17 农业农村
+https://livednow.com/migu/673168256?sign=gAAAAABmozHgQsyfLkf0HqYSMj7EUvAuB1rdqdZX10X_koaBlq2rfR5a2k_HSEgh_WfspM5cmZvBF3KQA0x2H8LbKIruChT3AA4-ltNkjrY3Nj2-w-8uSLJCMX9nk9GBzAb6C_8shZtB_0gvzk2XkL9HXztYp-KZtWQaK2tLQtyHdjsJ4OVzowY39C0OlDvA6Tq4v9HEIf_RTKzWNHpbezbFCxkKaK-GEw%3D%3D
+#EXTINF:-1 group-title="中国",CCTV4 欧洲
+https://livednow.com/migu/608807419?sign=gAAAAABmozHgrllZLGSyiS71UxGT2SUzwuZeLOy7GmzSsqNeyTF4FfNKDyFS1hMAdP3RlbEanlpNcFKz8T3lCbnnlE5UExNUrq5fxGHeE1ZGQBOOcd6i9ohq908NNynsM9wxFRIyTAdInNI8d7l7LB5GjRvPOC4vlx_E1MDo1zj7wNhQIaq7IIZAk-vV3jfNB4JXyjKWYg5PV0KPDH5FOOshBKlStMyi9g%3D%3D
+#EXTINF:-1 group-title="中国",CCTV4 美洲
+https://livednow.com/migu/608807416?sign=gAAAAABmozHg56Xd1n34-76OeVA0OB81b7m0Ak9cG2eGV8XGpbo2VvH5lFPlbQH7M2LFZLGcbPnSGrWsYNmAmp7nmtTfPHYGO58xBG-c9VRzZ8_b0x9AEKpCeYclprJaLF1jQQjzGJojOvlK7lmssx84Hx0zVnDI0cm1GDnC5Ia7L4PhrF7U6H92qbIet4hMsj-kWpZvdT_WdkFGKGE8HkvozlcQRmFFIQ%3D%3D
+#EXTINF:-1 group-title="中国",江苏卫视
+https://livednow.com/migu/623899368?sign=gAAAAABmozHgz9GCL9arcnqeM6JNKUb8rTKAHHnXRglV0Q0ihEMRcio9FVscDqWOUGdyur0eF4dXImHOGenNpnw_ZEDZaKFmVw_nwZsfLKP0A9JmDhSbJy8XCMKYUJc6cdST0oi3076A1-jeTRs_d8XleiOBC8sVflJIja8P8aGx18z6S6FvDHjv0WJSl_aHhVDBezjtYx0lBszkxijjU60qEQjAXv4LwA%3D%3D
+#EXTINF:-1 group-title="中国",广东卫视
+https://livednow.com/migu/608831231?sign=gAAAAABmozHgn9gSaW0WGI61-Svog_M56yjHUiKug26RAGk-Yi_sT06HVt4f7oZeg36YneyxGlXneskahfP3DtYt0Ho-IorHUZBmwjELUVYuTD7myC1GmZxewxzo_V4ik22yEn1bzuAhqPRm8JNT61aFJAdxnxZegTQCY3I_xewzVvVwp11LbHMczkY249UBqbKVK8tU4M5UFQtjgHrVYU6FYnUrjtcU7w%3D%3D
+#EXTINF:-1 group-title="中国",江西卫视
+https://livednow.com/migu/783847495?sign=gAAAAABmozHgdvFs7AtQofyevyqtKmUqTxC5ZhRcB4KpUvuTBz_BumL1zZRQDr5bFFztF1lAq7D1su87fr5bSrOhIS0urKBTXXDUthuYDiFM0ei2G2vG73V2yeNH8umXAElyszU2Vaw1-2YOlnck5LYatd3w21KSpCtDRV_rnr7VusP0iYaBYp9gfMmvpncYIFuwZCqq-ftkRoV5Gv0QT34X8qPirpo-Tg%3D%3D
+#EXTINF:-1 group-title="中国",陕西卫视
+https://livednow.com/migu/738910838?sign=gAAAAABmozHgvUrJIXZHCMouL60HbCjNncap-dy2U0peoYWeSIWtkjOy59rKAuoYYIhX1o9gmaZCkW6zA-f9Ls9bCTy2PeWhQ844ppPCj5iLKUGo8ToU9IDtVegPpQ0TBKfa-sADEH7FcbfnpdDAH5558YcMdJqC0qttUHYrI5VMNAiVLmBfMtwA2isHc8ENhGXUt0VGtoW1lcYRO5e_nM-7L6hZXbu3Uw%3D%3D
+#EXTINF:-1 group-title="中国",湖北卫视
+https://livednow.com/migu/738906825?sign=gAAAAABmozHgGuPs6srBukjNC0k4-nJlqGa-bREjvymUh1fOo5jX8DzChMrpklacHNCJAW-0Ti6SvX12KdybiU37ZxP6yqs4SJyLHG47Jq7LAT52nbtqF_LEWTPy_Kl_7Kxfa5o8NezpUf328nsWCu_WaguXxnjOMsk-ctGrzk_LxZqOqfluSudAnYvZzRZ8OS0K5xEonr6QbSjEM4wkFAanBEbniOmXPQ%3D%3D
+#EXTINF:-1 group-title="中国",海峡卫视
+https://livednow.com/migu/849119120?sign=gAAAAABmozHgQwVR7hAEvNwnQMZ1wEB-Ipkl_vnDobXJOdJKrNBxPJ362GZlLa8AkX8fpn8cFFVME-Mso_PmwgrzfJYAV9GddkYHIXTqOsirUf04rVn3uF9Nvj8QE7kTU6W43SCENdTspNSR2GW7Y4CqYvHwI8XiSPCAgbkTc87xsgyiy5AnKhumcEDiKjpBjD4ZIYPKlIK8g_WVC6m7VeI8PzyjWphwKA%3D%3D
+#EXTINF:-1 group-title="中国",NBA 经典
+https://livednow.com/migu/788815380?sign=gAAAAABmozHgxdeLqyHHk_9y-APyCznHn4R-ZLGEJd1R47lhAxCaTd3eYlpHtNH6DBujDhUSP_BayT6AdMIrcZyg3bFhJQ-y1hQ7E8tF4-9wUwIrsM3ok2pXSlxJERCRgsnIWKMYvZbz4aXX8ANWh8VrjppVPJEYqkzYU-SSBAybgWcp__EHjs5lI2asDf-p92vFlyaPsoEH1wd8zBH8-oLKNui9knWywQ%3D%3D
+#EXTINF:-1 group-title="中国",五大联赛经典
+https://livednow.com/migu/780288994?sign=gAAAAABmozHg0OPJ336IF0yWaM-oWgJMz00wWnylVJM9CENnnmOsLV38pUueIMD-3aAFFYuvqdRGHdYJ5q65E0rJOYRUYohqXIkiW4L8L1rC9a0E-pjetqwMKkfE7TlBRUbD_vxzYHXAhiz3f88KZnARJCsuwQE98Uwexd6qozQYptaGae-tZPIIGW2HZPW8virUmMfYBS6SUr3z_qoSeuo3lWrIfOz4Jw%3D%3D
+#EXTINF:-1 group-title="中国",CBA 经典
+https://livednow.com/migu/788813182?sign=gAAAAABmozHgIMevZal0e00OSA6VUNn-hK9O-psVH_tUywovywAhM3fTETNbmwwz-oJ8FiHgMMPtjwFcFeW6B4VoMwqkM0xe7xupHlnCYbPgBRoggRm83Yy3kInKhzMVNT7qZFIXHdgAZQ9IbGoAEVuxIfk7F7dBIrA9H39z4s1-o0r1s4TDz3Ce42b7qKtNoTvtB-nLGB8rWD3MFvUik6qdbcQdQv0kJg%3D%3D
+#EXTINF:-1 group-title="中国",中国足球风云
+https://livednow.com/migu/788816794?sign=gAAAAABmozHgrf3lGfXNUuccDK1JtqI6kZiuWVjV8CcJBw6jhlavKq3Cuql-WS8iuzGgrAxlmJSW693Iyh4xPhdPl2ChCbg6CkBFkyEINd1gwTO1sHhJ9x8g9xSrDErq37QwYuXcax5Xo1HOz1_XtTtqfvgCv4zcm9HAmituuDrHMOAJKN3VN9vyr9S2egBU590YOTxFApQj3hZxmrSIwnMmFTubMbkt6A%3D%3D
+#EXTINF:-1 group-title="中国",UFC 格斗精选
+https://livednow.com/migu/788818804?sign=gAAAAABmozHgzpN-etjgdInXjUQoj72yrnTcxojgOuo1GdAyVR0SEmgiX6OQZEjFQfiaA_1VBZJ2rzJf9Hv-iqsVob5LDKafiHeHaJe_dlAOCZx0lV4gh0jTKxSDrpcjO931z9QL5JbeMuCR3fCZATRmFnjlpBgFSfcz3XdhGg8Qbu7HBBcLG4GIkyHGCJcouQ6XbdKajvCKn6vwUWM7FPH42GtHcS2cUA%3D%3D
+#EXTINF:-1 group-title="中国",劲爆体育
+https://livednow.com/migu/796071336?sign=gAAAAABmozHgwwdP2IhYRk_C63-IEE3AJsQp9cqf1UhqoZ69oi-6PIF6_ZIZa1ge-eOozfTZobH8HxU7k8_DJZhJAapokYWD6EA7zaa2wji3ki9n-WGcH7-jdC5KIWPcpPZn_oftnlNd8aYPo76edt7Pax3NNO7_TPazYg7grkhM-hf5-AQ3M3mnJRInBvOQnO3BfP3ip-F0L_wYLg0d1cAPYXPvknlRAA%3D%3D
+#EXTINF:-1 group-title="中国",魅力足球
+https://livednow.com/migu/796070308?sign=gAAAAABmozHgh0u69ukeZ-1lRsbEHhqOT2cXCxpEyXyk8k6G476DCD28X-fTBTPta4eR2CUpEkGUlh5n3-GLT0YWcEh9o6Vf0ICW4BHXmCa8Z9htv6EvpKDFhh0VCfJTX0AlWQeDnVJ1cEKmDVX_5qmqp9zNx-_9bJiYV90QBuN68lMqvgOcnjvxnsg7XCodzFjwnkdEoe89hvEtRFcW5JetKU58LDff9w%3D%3D
+#EXTINF:-1 group-title="中国",赛事最经典
+https://livednow.com/migu/646596895?sign=gAAAAABmozHgKHMS8mTVipVHRol6Y9WBpHbXZBD5XBo451suTgEShxwLlKGGDu-imkOjhm3dKDPokjiffoiWFGSA6RS7JzUSCrVELB1SxkQp5-bS4CukyFZTWibbJClwNuUcI21k7XceRnqaWoSOvcn768o5d8s3g_uz9oCQrBsK9ZggCaE7Nt14QuO8KsLaAz0TgdVc7lPWfA6r7UTe920_YEOJ6vNxdA%3D%3D
+#EXTINF:-1 group-title="中国",掼蛋精英赛
+https://livednow.com/migu/631354620?sign=gAAAAABmozHgl9G7IDCTun1OTuyCnfoR7p2rpW5UVLpKTENJ2RkQcwcGnviNG3ELxuDXUrz0KzrHYx1rMRXN3bI0iLKX8YQDO5mx01m0UCvB0DQ9QELmHq5QcnL4L8H8mkStLeD4SFSBS4VMm9W8HVUlljVA-gH3xkmpjOLRQBKQHGlu2ocFgS6ysshLl713Eh5YHDuWJWyjwBnx_rU28_Y7l6ozGsu2Ug%3D%3D
+#EXTINF:-1 group-title="中国",全民乒乓
+https://livednow.com/migu/788818045?sign=gAAAAABmozHgxi03F8r4EDC9yFBH7F0Nsr3CZ2s_XHEmAwvyl1mqk8mGFgpePZKD0D4bTJ94ngtZaAh9HvZPkR4YshJ7tOcS04QdXrKRaaBK5eBXm1HTb_bICX80b9Phc7tWfViLFLBVS9QXVeXpOXob2vmLuwlxldIC851RANBR_EEQ1kl2IWKpcgh8c_MOOnPHYwzOZAH4jAprm9e_uhB6QbrjPyFxrw%3D%3D
+#EXTINF:-1 group-title="中国",体坛名栏汇
+https://livednow.com/migu/629943305?sign=gAAAAABmozHgJ1rCVDNtSc8lSg8fnI5KlNqAKAokvVMj3s_PAJ1ZPBL3asn3jk_KFI59zahtxU0BorTKjtYYmjoEydC2B0YFx7_3ud58kAsfBs1J8Lv2WU4zXMSArHi6AZvgWv5KslYTvxovN1pKdkWgXm-9si88PHNIKKCzfXC1wPprltKswXaFhamMjK0PzPL6rfL154eOpHysYl0wZFCSOfNkJFsaWA%3D%3D
+#EXTINF:-1 group-title="中国",四海钓鱼
+https://livednow.com/migu/895358641?sign=gAAAAABmozHgk2aF1olfsgOWxq4jhfUK4Y4vQGuJxeWuloWjfWUWZY-JWeOWfoyW1zT25bv5w-vqJ_qJlfruuLteMxWOS1tcyDswTNs1VfeWciGUmoVbekkTPLnRxyMFeoaGio-_Y1clrDbhPWnXGX7HY8_xoBvLZUpfWosS6pbpG7eI4KS7FdtaGayBT6ZQehiVFaXCg8A5qCK7dD-iXGqIZp1QDmzQqA%3D%3D
+#EXTINF:-1 group-title="中国",咪咕24小时体育台
+https://livednow.com/migu/654102378?sign=gAAAAABmozHgQ91ND_Tq-417RzJnqWbDJcRtzY25-DruP_5Puq4K-yZrvaxSCkDjDdU_UJ_N0TWeqjl0jMdRXif3aOHhIMdHPV_XdVFb3Njxc1L7zygAvI7r9u-W13fCaECUl4QUuVNlW0N9CPG1eU-_c2_4nrnI_zsn-HUsxRbjQdMY2n-zL9MKLaxu8GjhhhrlpicYNWcJpRBI_I8DC58HROC0D2iwsA%3D%3D
+#EXTINF:-1 group-title="中国",游戏风云
+https://livednow.com/migu/790188417?sign=gAAAAABmozHgZ18dbsT-QldtB2nuhbZ50lloftF4p27IR2wuMInW0ycZACzcH91OHN4_mQpL6UMBQLMjNb4KzgAnhcKLol7t8WSBDkqXFvAywhIjAsmzBcjikpb1wJOsztzixAh5KxzVpkLzhGZT478u5S0s8Ox5uh4h4BGyXlAXums2svqY8A0Vsuj8hbXQMmufyLCurwHkcdGREWpWkk-gPvCIr-5ANw%3D%3D
+#EXTINF:-1 group-title="中国",上海东方影视
+https://livednow.com/migu/617290047?sign=gAAAAABmozHgL_6c61jiKAtLb4De86EmQgZPbfVj8d8_8Bkh2zYPH51WOjjnzL2jJ6Z6vC3ECa8VShna_Q6cdUp-GGAF1FgmDNwi0FMBejJdVkgSWVgLfiQHUAoH3O5gQkccePKUjQktzvAI9XqyPvNSxfM_8X2-7dacoUPqHb0eZIr0KXqTnifeA6lKYxSrnR6XYUdnhat5qnVogzRBlEtoQPV5uWLUsQ%3D%3D
+#EXTINF:-1 group-title="中国",上海纪实人文
+https://livednow.com/migu/617289997?sign=gAAAAABmozHg2Z-u8yJ36LVI8Cj4V_koCIMeieigwEn0Ey8q7EdAtTWjnmXQY-kLQqPxKZYZE4widnbS5bFPjxnVq1zeLR93zm7l0pbOC4uCg2aEBu-PRBlHs4wFyrCNxkpryWrhpOW7trpgpB0-HpSHyorzlBz_GgkDfQDWPavaiFwik9N3Ax8qgSv7WrglybwpBQX0keiY6bstTo0JoaeqM96cmoZ61w%3D%3D
+#EXTINF:-1 group-title="中国",七彩戏剧
+https://livednow.com/migu/796071456?sign=gAAAAABmozHgdEDaiVHm-mOR5apB_rjXxv_ItcPq8E166fpct1dp12a3FJ78n7b8ufTq4SCbEFenqDjTC1V58CWKI_Y6xcLbnx-NOn6WZG9gdkZd6XQP6pF5NlBG87exCa4JTxUwuPVEjtoYmnJNtVAKo7AJ7uIMX37CwMXTCVj2EAhhRZ_Bh3yahrasKUvVC0WIl10mntMdaK29a-UaS7LKGU2dH_UE_g%3D%3D
+#EXTINF:-1 group-title="中国",经典香港电影
+https://livednow.com/migu/625703337?sign=gAAAAABmozHgEdJ8UPJvSsp5Ue2iEIBuGJ_kq90_Crh7XXaNKAZa34FTxG3iV53do5fz5TP5zoKrMaylmZcOs8PQDy_4LOynL6zswzI__q6udsyC5__tpiRZny6mlxvMUfPtIf7m_q0_Sw1nb1JkdHmgrgpcAA_0OSkHlGPdPUpRZa70hN1J8DHjgQEvgAH0BWpRsAyk6F5pfqjjRLCR-EJhEnQjtq53Mg%3D%3D
+#EXTINF:-1 group-title="中国",新片放映厅
+https://livednow.com/migu/619495952?sign=gAAAAABmozHgUGzsarfd_Z6WG1cyfXmUHr9n7ExoKLcTIaA2njjVYAYyl0vR7TMjPWef1tZp8x3hrGYjYOEbhj0cp7paw5_Ipn0NsCyT1xiItTG6YX8Yp_xyhOVD7i9BZzDafX4ukHHIYQHmXnw0TRaGGn2_toHwvG2zTYjdyfIPJ6fEWBMZ9DtZ5QXopGHFWJPdZ2DpYwjdy4zBjgeeDaX5s-F5leSvlg%3D%3D
+#EXTINF:-1 group-title="中国",CHC 家庭影院
+https://livednow.com/migu/644368373?sign=gAAAAABmozHghIay_md6OKl5gV0zZNU1wSPXY6j17Rny1SLva0wTAEp_El8lpGe9CYHcAnHKh5Bjj8pwgbAWEMf7x6YRQrLDEEtbhCTsVkwijd2KT6_OPGOiWwBfYQMQOHAktpfxIHUYMDLGnEusguGYXjIAZp-pkk7ReiZ-sbHEV0vv21xR-CDGWDIB_1mzLcExD1l-XOa-j3nYP8-c7cvI74jTf9Jupw%3D%3D
+#EXTINF:-1 group-title="中国",欢笑剧场
+https://livednow.com/migu/790187880?sign=gAAAAABmozHg3otvb9hbQNG4aZWPp42fCii4KjyU-zp7oYhyLBk5uZQAyioylJ8533y8Tq7CVlCOTb4-Yhl31oOgqvGiKD5H2JHB5ST0t289VbFRrE3qvlFJe5l8AJHF06tmMTtm5Ii3FJTOO467lp84UzyH0vSiN3Ih8OSiMAD4Jnc3mttn0WvsXXQ_X7hmIoMoYjFoe5yOmj_fVSHD8FkpY4dVemWBWg%3D%3D
+#EXTM3U
